@@ -1,0 +1,3664 @@
+INC16742041  parent
+b+FR;,T<zY2Z<!bt
+pluginUtility generate --server=imod1 --targetpath=./pluginFiles/plugin-cfg.xml
+
+INC16672152 with lower priority can not be a parent of INC16741731
+Error MessageINC16672152 with lower priority can not be a parent of INC16742041
+Error MessageINC16672152 with lower priority can not be a parent of INC16742387
+Error MessageINC16672152 with lower priority can not be a parent of INC16743654
+Error MessageINC16672152 with lower priority can not be a parent of INC16744174
+Error MessageINC16672152 with lower priority can not be a parent of INC16746974
+Error MessageINC16672152 with lower priority can not be a parent of INC16746983
+Error MessageINC16672152 with lower priority can not be a parent of INC16747798
+Error MessageINC16672152 with lower priority can not be a parent of INC16748027
+Error MessageINC16672152 with lower priority can not be a parent of INC16748478
+Error MessageINC16672152 with lower priority can not be a parent of INC16749191
+Error MessageINC16672152 with lower priority can not be a parent of INC16749532
+
+
+
+
+INC16672152
+INC16672244
+INC16672298
+INC16672406
+INC16692363
+INC16692367
+INC16740378
+INC16740687
+INC16741145
+INC16741731
+INC16742041
+INC16742387
+INC16743654
+INC16743818
+INC16744174
+INC16746095
+INC16746880
+INC16746974
+INC16746983
+INC16747086
+INC16747406
+INC16747778
+INC16747798
+INC16748002
+INC16748027
+INC16748111
+INC16748478
+INC16749136
+INC16749191
+INC16749432
+INC16749532
+INC16750165
+INC16750620
+INC16751193
+INC16751580
+INC16754146
+INC16754625
+INC16756674
+INC16756716
+INC16756789
+INC16758419
+INC16758625
+INC16762899
+INC16763110
+INC16763195
+INC16763239
+INC16763273
+INC16763735
+INC16764412
+INC16764507
+INC16764525
+INC16764599
+INC16764605
+INC16764733
+INC16764820
+INC16764833
+INC16765717
+INC16766165
+INC16766550
+INC16766834
+INC16767098
+INC16767220
+INC16767788
+INC16767801
+INC16768038
+INC16768254
+INC16768392
+INC16768542
+INC16768597
+INC16768959
+INC16768981
+INC16769210
+INC16769289
+INC16769397
+INC16769625
+INC16769947
+INC16770485
+INC16772082
+INC16772152
+INC16772221
+INC16772326
+INC16772395
+INC16772477
+INC16772540
+INC16772617
+INC16772643
+INC16772681
+INC16772724
+INC16772758
+INC16772807
+INC16772846
+INC16772891
+INC16772896
+INC16772983
+INC16773025
+INC16773065
+INC16773672
+INC16773701
+INC16773959
+INC16774594
+INC16774614
+INC16774635
+INC16774823
+INC16774998
+INC16775190
+INC16775228
+INC16775270
+INC16775348
+INC16775376
+INC16775383
+INC16775388
+INC16775432
+INC16775492
+INC16775523
+INC16775551
+INC16775554
+INC16775573
+INC16775584
+INC16775619
+INC16775634
+INC16775658
+INC16775693
+INC16775699
+INC16775701
+INC16775727
+INC16775732
+INC16775747
+INC16775761
+INC16775765
+INC16775781
+INC16775808
+INC16775827
+INC16775836
+INC16775876
+INC16775953
+INC16775989
+INC16776004
+INC16776014
+INC16776144
+INC16776357
+INC16776546
+INC16776729
+INC16776748
+INC16776750
+INC16777005
+INC16777056
+INC16777388
+INC16777424
+INC16778507
+INC16778876
+INC16779773
+INC16781083
+INC16781108
+INC16781908
+INC16782198
+INC16782378
+INC16782496
+INC16783177
+INC16783644
+INC16783728
+INC16783776
+INC16784075
+INC16784195
+INC16784353
+INC16784433
+INC16784609
+INC16784827
+INC16785107
+INC16785249
+INC16785320
+INC16785631
+INC16786220
+INC16787337
+INC16788386
+INC16790371
+INC16790539
+INC16790544
+INC16792470
+INC16792824
+INC16792998
+INC16793048
+INC16793111
+INC16793113
+INC16793252
+INC16793280
+INC16793351
+INC16793416
+INC16793501
+INC16793539
+INC16793735
+INC16793960
+INC16794022
+INC16794112
+INC16794252
+INC16794286
+INC16794441
+INC16794770
+INC16794901
+INC16795152
+INC16795222
+INC16795285
+INC16795622
+INC16795889
+INC16796575
+INC16796724
+INC16796880
+INC16797568
+INC16797883
+INC16798297
+INC16798345
+INC16798935
+INC16799254
+INC16799455
+INC16799732
+INC16800643
+INC16800815
+INC16801129
+INC16801592
+INC16801634
+INC16802029
+INC16802187
+INC16803117
+INC16803168
+INC16803426
+INC16803520
+INC16803742
+INC16805019
+INC16805587
+INC16805610
+INC16805775
+INC16805857
+INC16806289
+INC16806566
+INC16807042
+INC16809326
+INC16810077
+INC16810460
+INC16810895
+INC16811027
+INC16811593
+INC16811752
+INC16811772
+INC16811797
+INC16811831
+INC16811855
+INC16811880
+INC16811927
+INC16811951
+INC16811973
+INC16812000
+INC16812007
+INC16812016
+INC16812034
+INC16812049
+INC16812062
+INC16812074
+INC16812103
+INC16812757
+INC16812835
+INC16812909
+INC16813008
+INC16813135
+INC16813287
+INC16813891
+INC16814381
+INC16814682
+INC16815080
+INC16815086
+INC16815099
+INC16815106
+INC16815117
+INC16815134
+INC16815504
+INC16815664
+INC16815975
+INC16816167
+INC16816258
+INC16816385
+INC16816579
+INC16816644
+INC16816858
+INC16817078
+INC16817121
+INC16817302
+INC16817393
+INC16817445
+INC16817589
+INC16817902
+INC16817915
+INC16818073
+INC16818094
+INC16818259
+INC16818373
+INC16818417
+INC16818456
+INC16818541
+INC16818590
+INC16818623
+INC16818651
+INC16818683
+INC16818714
+INC16818755
+INC16818823
+INC16818835
+INC16818900
+INC16819049
+INC16819067
+INC16819123
+INC16819170
+INC16819184
+INC16819197
+INC16819202
+INC16819267
+INC16819274
+INC16819368
+INC16819406
+INC16819485
+INC16819524
+INC16819576
+INC16819627
+INC16819634
+INC16819664
+INC16819707
+INC16819757
+INC16819797
+INC16819840
+INC16819877
+INC16819880
+INC16819929
+INC16819931
+INC16819958
+INC16819982
+INC16820072
+INC16820103
+INC16820119
+INC16820161
+INC16820186
+INC16820215
+INC16820237
+INC16820280
+INC16820328
+INC16820370
+INC16820390
+INC16820428
+INC16820453
+INC16820489
+INC16820520
+INC16820569
+INC16820584
+INC16820600
+INC16820637
+INC16820678
+INC16820681
+INC16820688
+INC16820719
+INC16820756
+INC16820775
+INC16820778
+INC16820807
+INC16820823
+INC16820826
+INC16820854
+INC16820865
+INC16820870
+INC16820900
+INC16820926
+INC16820939
+INC16820958
+INC16820982
+INC16820983
+INC16821000
+INC16821006
+INC16821015
+INC16821017
+INC16821054
+INC16821081
+INC16821090
+INC16821119
+INC16821127
+INC16821148
+INC16821165
+INC16821200
+INC16821218
+INC16821231
+INC16821235
+INC16821237
+INC16821263
+INC16821275
+INC16821292
+INC16821310
+INC16821318
+INC16821340
+INC16821355
+INC16821371
+INC16821387
+INC16821399
+INC16821409
+INC16821411
+INC16821419
+INC16821430
+INC16821435
+INC16821441
+INC16821459
+INC16821503
+INC16821504
+INC16821534
+INC16821536
+INC16821569
+INC16821594
+INC16821624
+INC16821630
+INC16821656
+INC16821680
+INC16821692
+INC16821702
+INC16821722
+INC16821737
+INC16821750
+INC16821773
+INC16821787
+INC16821810
+INC16821842
+INC16821860
+INC16821884
+INC16821944
+INC16821962
+INC16821971
+INC16821989
+INC16822038
+INC16822058
+INC16822091
+INC16822177
+INC16822223
+INC16822286
+INC16822313
+INC16822336
+INC16822360
+INC16822395
+INC16822418
+INC16822453
+INC16822506
+INC16822536
+INC16822568
+INC16822571
+INC16822599
+INC16822622
+INC16822636
+INC16822669
+INC16822688
+INC16822726
+INC16822749
+INC16822771
+INC16822772
+INC16822815
+INC16822844
+INC16822857
+INC16822923
+INC16822956
+INC16822982
+INC16823013
+INC16823064
+INC16823097
+INC16823150
+INC16823183
+INC16823257
+INC16823302
+INC16823351
+INC16823379
+INC16823388
+INC16823422
+INC16823437
+INC16823460
+INC16823503
+INC16823546
+INC16823591
+INC16823607
+INC16823664
+INC16823694
+INC16823705
+INC16823730
+INC16823749
+INC16823770
+INC16823797
+INC16823828
+INC16823861
+INC16823892
+INC16823932
+INC16823959
+INC16823995
+INC16824014
+INC16824027
+INC16824043
+INC16824061
+INC16824102
+INC16824143
+INC16824172
+INC16824181
+INC16824217
+INC16824277
+INC16824290
+INC16824325
+INC16824330
+INC16824347
+INC16824386
+INC16824400
+INC16824420
+INC16824448
+INC16824453
+INC16824467
+INC16824501
+INC16824502
+INC16824539
+INC16824549
+INC16824578
+INC16824614
+INC16824625
+INC16824637
+INC16824650
+INC16824656
+INC16824706
+INC16824711
+INC16824722
+INC16824743
+INC16824747
+INC16824761
+INC16824782
+INC16824793
+INC16824818
+INC16824835
+INC16824867
+INC16824933
+INC16824938
+INC16824961
+INC16824988
+INC16825028
+INC16825042
+INC16825081
+INC16825096
+INC16825107
+INC16825125
+INC16825202
+INC16825222
+INC16825275
+INC16825309
+INC16825339
+INC16825432
+INC16825481
+INC16825522
+INC16825560
+INC16825594
+INC16825602
+INC16825639
+INC16825665
+INC16825698
+INC16825745
+INC16825831
+INC16825879
+INC16825927
+INC16826006
+INC16826101
+INC16826194
+INC16826295
+INC16826391
+INC16826493
+INC16826695
+INC16826726
+INC16826860
+INC16827028
+INC16827221
+INC16827432
+INC16827636
+INC16827709
+INC16827963
+INC16828000
+INC16828298
+INC16828354
+INC16828418
+INC16828563
+INC16828807
+INC16829058
+INC16829323
+INC16829330
+INC16829549
+INC16829639
+INC16829850
+INC16829991
+INC16830208
+INC16830377
+INC16830555
+INC16830753
+INC16830921
+INC16830956
+INC16831119
+INC16831334
+INC16831501
+INC16831696
+INC16831871
+INC16832057
+INC16832230
+INC16832384
+INC16832535
+INC16832679
+INC16832805
+INC16832907
+INC16832994
+INC16833061
+INC16833175
+INC16833225
+INC16833281
+INC16833313
+INC16833330
+INC16833358
+INC16833359
+INC16833395
+INC16833397
+INC16833456
+INC16833468
+INC16833478
+INC16833490
+INC16833491
+INC16833492
+INC16833514
+INC16833547
+INC16833572
+INC16833599
+INC16833630
+INC16833706
+INC16833726
+INC16833730
+INC16833890
+INC16833974
+INC16834014
+INC16834116
+INC16834150
+INC16834207
+INC16834371
+INC16834382
+INC16834721
+INC16834736
+INC16834759
+INC16834892
+INC16834901
+INC16834917
+INC16834977
+INC16834985
+INC16834991
+INC16835037
+INC16835320
+INC16835426
+INC16835481
+INC16835502
+INC16835528
+INC16835546
+INC16835735
+INC16835821
+INC16835844
+INC16835900
+INC16836016
+INC16836196
+INC16836411
+INC16836425
+INC16836635
+INC16836862
+INC16837009
+INC16837077
+INC16837307
+INC16837593
+INC16837864
+INC16838136
+INC16838600
+INC16838853
+INC16839016
+INC16839057
+INC16839299
+INC16839465
+INC16839498
+INC16839526
+INC16839557
+INC16839806
+INC16839878
+INC16840057
+INC16840215
+INC16840311
+INC16840393
+INC16840546
+INC16840738
+INC16840754
+INC16840850
+INC16840871
+INC16840877
+INC16841017
+INC16841104
+INC16841142
+INC16841289
+INC16841485
+INC16841513
+INC16841641
+INC16841733
+INC16841748
+INC16841768
+INC16841879
+INC16841930
+INC16841952
+INC16842048
+INC16842060
+INC16842061
+INC16842180
+INC16842183
+INC16842209
+INC16842261
+INC16842274
+INC16842353
+INC16842357
+INC16842379
+INC16842464
+INC16842505
+INC16842557
+INC16842644
+INC16842675
+INC16842802
+INC16842936
+INC16843063
+INC16843112
+INC16843160
+INC16843176
+INC16843187
+INC16843208
+INC16843250
+INC16843293
+INC16843308
+INC16843507
+INC16843769
+INC16843863
+INC16843887
+INC16843891
+INC16843921
+INC16843977
+INC16844016
+INC16844065
+INC16844079
+INC16844096
+INC16844163
+INC16844286
+INC16844429
+INC16844471
+INC16844574
+INC16844629
+INC16844662
+INC16844693
+INC16844772
+INC16844985
+INC16845088
+INC16845103
+INC16845603
+INC16846152
+INC16846705
+INC16847204
+INC16847673
+INC16847750
+INC16848047
+INC16848110
+INC16848513
+INC16848926
+INC16849029
+INC16849344
+INC16849471
+INC16849744
+INC16849976
+INC16850425
+INC16850677
+INC16850859
+INC16850919
+
+
+New OR filter section added, 2 of 2
+New AND condition added, 2 of 2
+Edit Members
+ 
+  HELP
+All of these conditions must be met
+	
+	
+	
+Collection
+Child Incidents List
+
+INC16672152
+ 
+INC16672152INC16672152
+Number	INC11011356
+Short description	cskpcloudxp2333 APP-514 : Heap free after garbage collection 10 Percent oncskpcloud-1:cskpcloudxp233...
+Assignment group	IBM SSO Web Middleware incidents
+Assigned to	
+Task class	Incident
+IBM SSO Web Middleware incidents
+141 result(s) available, use up and down arrow keys to navigate and enter to select
+
+
+
+
+
+
+
+
+
+ILM migration completed for FRRS application in prod and non-prod environments.  ALM (Enhancement)
+ILM migration completed for ROBGYN  application in prod and non-prod environments  ALM (Enhancement)
+Dynatrace - along with monitoring team,continue validating new alerts on Dynatarce for WAS ,IHS,apache and JBOSS
+
+FuiCvP/%4aUn94fE
+
+2600-gpay
+9894934049
+
+w{iLbs'G>wW95TG$
+Dynatrace ---
+NPS---Hibernate 6
+
+[00:17] Raveendar Ramasani
+https://uamprod1.crdc.kp.org/UAM/KPgroup_owners.csv
+
+[00:17] Raveendar Ramasani
+Note: Prior to requesting access, a PDF copy of the approval from the UNIX Role / Group Owner OR Job Function Owner is required to be attached to the request.
+
+25'13
+gpay
+
+
+nzapwa91
+nzapwa92
+szapap47
+csc2cxp00004828
+csc2cxp00004829
+csc2cxp00002742
+csc2cxp00002743
+csc2cxp00002745
+csc2cxp00004836
+csc2cxp00006047
+csc2cxp00006048
+csc2cxp00006049
+csc2cxp00006050
+csc2cxp00006085
+csc2cxp00006086
+
+
+notice1
+
+
+6375130567640007
+08/24    cvv 908
+5683
+
+
+M-UiwT2rLTHw3AN=
+
+X510738	Abdul Shabeer Hameed
+H233396	Ajay B Kumar
+C041930	Anitha Ruvalapalli
+Q205610	Karthikeyan Kanniappan
+K072103	Mohammed A Hannan
+O550071	Narendra K Jonnalagadda
+A350839	Neethu Radhavaram
+W457596	Pooja Mol
+A327935	Prashanth V
+Y134412	Romy M V
+G487860	Satheeshkumar SR
+K739079	Satisha K Chandrashekarappa
+M110461	Vivekanand Metta
+M554538 Perumal Panchavarnam
+
+
+
+
+
+
+
+1) Dynatrace - JVM name issue has been fixed by dynatrace team. 
+But still we have issues generating alerts for haep and other alerts
+Stuart asked help to get use cases for OOM and hung threads 
+
+2) Had a meeting with Joel and inturn he worked with Stuart team  and narrowed down to 29 servers for disabling ITCAM .
+3) VDI - Secure server - Moe 
+4)datacap-  5 new servers to be added to th existing prod server
+5) SPIMS - No issues so the case is still open 
+
+
+
+
+Dynatrace validation still going on 
+SPIMS - They 
+
+https://events.redhat.com/profile/form/index.cfm?PKformID=0x748297abcd   -OCP training
+OCP - Infrastructure will be ready soon. 
+
+
+Continouing assisting SPIMS applicatin slowness issue
+
+
+Hi Chuck, 
+We have created service account (cs\svcwebsupport) for Middleware automation purpose .The service account password will be generated and uploaded in PAPM (CyberArk) tool . please share your approval to get the password generated and uploaded in CyberArk tool. We also raise this RITM4218349 to ASG DRTAS PAPM SUP PROJECTS team for this issue.
+
+
+csc2cxp00021823
+csc2cxp00021825
+szapap47
+szapap55
+dzc2cxp00000192
+dzc2cxp00000270
+dzc2cxp00000271
+dzc2cxp00000272
+dzc2cxp00000273
+csc2cxp00006499
+csc2cxp00006500
+nzapwa91
+
+
+s@jiY:3k)NiS/fsu
+
+
+https://www.linkedin.com/pulse/monitor-your-ibm-websphere-java-database-modules-using-ramadan
+
+Robert needs raps for jboss
+
+EwR[bEM:pMf7T9'?
+
+
+Jan 14 10.47 AM 
+Jan 13 8.56 AM 
+Jan 13   1
+
+
+WI$4c(izajx_xR/T
+
+ dynatrace - Configured all on live server.(but not validated all the situations.
+ as bigpanda is not integrated.
+WAS -validated only stop/start
+IHS - validated only stop/start
+
+lot of support questions to dynatrace team for support . many was not answered yet.
+---------
+https://dynatrace-np.appl.kp.org/   dynatrace non-prod
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+EPF urn - 100839779970
+Kal1uzqx1@12345
+
+epf urn rani 100767603135
+50100074819506 
+NO traditional ND migration without approval of Chuck/RAvi kiran
+
+Liberty - use only core and base (No ND to be installed)
+
+openshift  will be coming in third quarter of 2023 and will be live for production before 2024
+
+Infosphere - setup --> support ony WAS 
+
+Genesys, Myhelp  - reverse proxy 
+
+fixpack Automation is again postponed for testing due to etchnical issue on IBM side. - 
+
+
+Ravee
+--------
+Karthik 
+BAU activity 
+- datacap -- 
+Ansible -- FS is corrupted. karthik is working with Ansible team
+
+Narendra 
+-----------------------
+BAu 
+Satheesh 
+econsult 
+
+WAS 9 and 
+
+Romy 
+------
+console access 
+
+
+Ajay 
+----
+FP econsult
+
+---
+Prashanth 
+
+BAU 
+
+
+Pooja
+cutover - IB application MA region 
+tomorrow live 
+
+
+Anitha 
+------
+MQ 9.2
+Neethu 
+-------
+BAU 
+Abdul 
+BAU 
+
+Praveen
+BAU 
+
+Vivek 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Self signed certificate got expired
+
+why it got expired.
+It is a auto renewal certificate . But auto renewal got failed 
+
+why it auto renewal got failed.
+One of the keystore (web key store)
+
+G3x_MHfzqK)b5;)G
+
+kotak
+HF38406100
+HF38703073
+Customer Relationship Number
+470465540
+
+
+8148727671
+18602660811
+
+jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=scan-czepdb001x.crdc.kp.org)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=mdhrp01r.crdc.kp.org)))
+
+Apache - stop/start
+
+/opt/rh/httpd24/root/sbin/apachectl start
+service httpd stop
+
+MDHRP01R =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = db-hr-mdpeople-prod1-cdc-scan.kp.org)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = mdhrp01r.crdc.kp.org)
+    )
+  )
+
+
+messaging moving to cloud
+container
+configuration management
+TSS technical security standards publishing on Jan1 - to complete on Apr 1st
+https://cyberguides.appl.kp.org/tss
+
+
+1)  Fixpacks and ifixes applied to remediate Log4J issue on all WAS environemnt
+2) NPS applications both Prod and non-prod were migrated to new P8 environment and build two new UAT envrironemnt to increase their capacity testing.
+3)  UCD upgrade 
+4) HPCHATS
+6) Worked with application team for migration of EPIMS/POS and PSB aplications into WAS 9 environment
+5) Working with Ansible team to automate our most frequent BAU task like Fixpack upgrades, Deployments, admin console access SSL and is in progress.
+
+6) New applications Autocap added to our RU 
+7) obgyn,MSSA,EMWS,videovisit,have beed upgraded.
+
+
+
++fEnER'%7ZkrtCM*
+
+
+
+
+FRRS - Kick started the process New project is ILM 
+MSSA - will be getting  new WAS 9 production. - working 
+
+automation - working on deployment and redesign mustgather 
+Automation tool - had a brown bag session with product manager. It was good .
+
+    Right now FP can be done on WAS and java (for both 8,5 and 9.0)
+            But not ready yet for IHS or plugins (they are working on it )
+
+It is ready for Liberty traditiobal WAS and also on open stack (but on different model)
+Asked for a complete demo and working session. Mostly it would happen on this friday during Enggineering  meeting.).Try to participate. I will request them to record.
+
+
+
+UCD - Rene - asked for 
+pDAS
+FRRS
+PDI - 
+
+
+Rene - 
+
+
+
+Future Kyndryl external telephone number: 4471743744
+Future Kyndryl Jabber/internal telephone number (ITN): 60243744
+
+ 
+     
+
+/backupconfig kpath Filesyatem has been increased on all production
+test server is ready for ansible script automation
+ucd issue
+QAdrop filesystem - KP is working with 
+release task  for epims- anil
+
+certificate - emws - we got low priority ptask
+
+
+
+
+Heap Size free after garbage collection.
+1)	Solution Implemented details - Increased  JVM Heap memory
+2)	RCA - Due to enhancement in application, they started to consume more memory. 
+
+
+AppServer-- 
+1)	Solution Implemented details - Advised patching team to enable GMM mode before applying patches
+2)	RCA   - This notification trigerred mostly during the patching upgrade and it is due to the stopping of JVM during the upgrade.
+
+High space used -
+1)	Solution Implemented details - Increased the filesystem size of the re occured filesystem. Also implemented script to move the archived files to other filesystem
+2)      RCA- notfied filesystem(s) does not have enough space
+
+Apache website failure.
+1)      Solution Implemented details - On Tivoli environemnt, modified the HTTP percentage failure  from 20 to 60 percent.
+2)      RCA- this is due to the TRO script which is running to validate application vulnerability.
+
+
+L5:Te=da/xK2z(@L
+
+carlton
+
+
+KPATH- oldlogs  and backup issue 
+Autocap - building preprod and pending QA and Dev.
+NPS - Activate spec issue 
+NPS - Got email alert form old server
+
+QADROP - trying other option to get filesystem 
+Automation fixpack  - Interactive . trying to make it fully automation 
+
+g487860a
+L=UyT$2\<-JWGduF
+
+
+▒▒▒▒r▒=DN▒j▒
+▒▒D▒▒▒R▒HM▒2▒P▒▒
+
+KPATH - oldlogs issue has been corrected on kpath servers
+Autocap -production and preprod in progress
+
+KVS external telephone number: 4471743744
+KVS Jabber/internal telephone number (ITN): 60243744
+
+pvb;W{/+P9ez5hLr
+
+
+https://nzxpap1083.nndc.kp.org:10001/ibm/console/login.do?action=secure   hpchats nonprod
+
+
+UAN/EPFO- epfindia.gov.in 100839779970 
+q.Cr;[p4Fv*4Jp:_ -secure
+RITM3619203 - SCTASK4039343 - to get access to venafi tool
+
+microservices
+
+Liberty
+paas or saas
+Azure - kubernetes 80 percent
+Adobe Experience manager 
+away from team site
+
+
+PFFS
+
+upload , 
+
+log files 
+
+
+	
+
+com.ibm.websphere.ND.v90
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install com.ibm.websphere.ND.v85_8.5.0.20120501_1108 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories /data/WEB/Patches/install_image -sharedResourcesDirectory /apps/WebSphere/InstallationManager/IMShared -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P_QA3/Installationlogs/WAS8.5_install.log -sP
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install com.ibm.websphere.ND.v90_9.0.5000.20190610_1342  -installationDirectory /apps/WebSphere/AppServer-9.0 -repositories /workfs/Software/rafw_media/WAS90/was.repo.90500.nd  -sharedResourcesDirectory /apps/WebSphere/InstallationManager/IMShared -acceptLicense -log /apps/WebSphere/AppServer-9.0/Installationlogs/WAS8.5_install.log -sP
+
+GCP voucher -- Amm22m22n399b6Gq
+
+
+PSB - Upgrade to WAS 9.0.5.11 on all non-prod servers (TRO)
+SNAP - upgrade non-rod servers with WAS 9.0.5.11 ( QA, DEv, UAT,TRN) - (TRO)
+ePIMS POS :  Upgrade non-prod WebSphere server FP 8.5.5.21 (TRO )
+NPS NON-PROD Upgrade to WAS 8.5.5.11 on the mentioned servers (Pre-PROD, PT and UAT).(TRO)
+Built for Employee Termination application in DEV, QA, UAT and PROD (New application)
+Setup  apache service for applymedschool dr.kp.org and prospectmedschool dr.kp.org (Enhancement)
+
+
+npsprodruw.crdc.kp.org
+
+
+DMND0008677 Websphere - Free Space for  /backupConfig and /logs
+
+DMND0008678 Websphere -IHS and Liberty Fixpack upgrades
+
+DMND0008680  Deployments for WeBSphere, Liberty, IIS and Jboss
+
+DMND0008681  Websphere application server (WAS 9) migration automation
+
+
+
+
+KP ServiceNow Reference link to open the Demand Management Request:
+https://kp.service-now.com/sp?id=sc_cat_item&sys_id=043e76ea1b76e0106be042edee4bcb39
+
+
+9840365692- krishnan
+
+https://urldefense.proofpoint.com/v2/url?u=https-3A__teams.microsoft.com_l_meetup-2Djoin_19-253ameeting-5FMTMzODJkMzktOWVjZS00MGY5LThkN2MtODRiNjNjZTFhYWFm-2540thread.v2_0-3Fcontext-3D-257b-2522Tid-2522-253a-25223f8a7bc4-2De337-2D47a5-2Da0fc-2D0d512c0e05f1-2522-252c-2522Oid-2522-253a-25227734cfde-2D944d-2D4199-2D8e19-2D4ed5d2528fb3-2522-257d&d=DwMFAw&c=cCoa5WWAB7EEETJScYfkXg&r=_yG168JTFWiwGqnuNX189Wwz6wOQdXb0r79I8j5_-vRzcKowurRcjZZLKdbgc78s&m=wXvXav_ad9bDyyKb0IFBkAJhItykxRBDNREqvDX44x0TTxqhhHCzulJnvoW4rJMw&s=OtF7Q_OYBJr9VsTHSejPbMH8Wj7iFHb4zM_nFffM1hs&e=
+
+You can use "Mentor/Mentee finder" bookmark in this channel to get to "Your Guides at Kyndryl": the Kyndryl mentor-finding tool.
+
+
+Questions Missed
+1. Q1 HIPAA was enacted for the protection of? Select only one option.
+2. Q2 Which of the following entities are subject to HIPAA? Select all that apply.
+3. Q3. Caroline has access to PHI of a Kyndryl client to execute her job. She has to send a file with PHI to a third-party contact who is also authorized to read and process the PHI. What can Caroline do for a secure PHI transmission? Select all that apply.
+5. Q5. Which of the following individuals must comply with HIPAA requirements about completion of HIPAA and any applicable role-based training? Select all that apply.
+6. Q6. HIPAA requirements for information system activity review include log retention for Select all that apply.
+7. Q7. As per the HIPAA Documentation standard and related specifications, Kyndryl units must Select all that apply.
+8. Q8. An unauthorized acquisition, use or disclosure of PHI may have to be reported to the OCR if considered Select only one option.
+
+IBM think conference
+Google Cloud Partner Enablement Team <partnerkickstart.support@google.com>
+
+RITM2948262
+
+nzapwai15 - RAPS having issue 
+
+,W%IcdfuC5GdcPn-
+
+
+nzapwa41 - central server for epims
+
+
+AiVzsLnrif1iSgWAHDOCx4rtCzHGAlkt7JkMAosFGnU=
+
+MGGZefjeTs7boGMfjnYqhzrObw4CiBkF3NfWF7FSfl8=
+
+
+
+gs://peru-bucket/setup.html#165327877610493
+export VERSION_NAME=gs://peru-bucket/setup.html#165327877610493
+10.128.0.2 (nic0)
+	34.135.245.176f
+
+https://dialin.teams.microsoft.com/7b6997e2-60d2-4524-8587-f2ce217a8287?id=347229648
+
+cd /apps/WebSphere/IBM/InstallationManager/eclipse/tools
+./imcl listInstalledPackages
+./imcl uninstall com.ibm.websphere.IBMJAVA.v70 com.ibm.websphere.IBMJAVA.v80 com.ibm.websphere.ND.v85 -installationDirectory /apps/WebSphere/AppServer-8.5 -sP
+./imcl uninstall com.ibm.websphere.PLG.v85 -installationDirectory /apps/WebSphere/Plugins-8.5 -sP
+
+./imcl uninstall com.ibm.websphere.IHS.v85 -installationDirectory /apps/IBMIHS/IBMIHS-8.5 -sP
+./imcl listInstalledPackages
+
+remove all the directories under /apps/WebSphere/AppServer-8.5 except /apps/WebSphere/AppServer-8.5/bin  (Please make note - this is for Raps )
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWRmMDdiNTktOGVmZi00ZjlkLWFmMDMtOTYyMDJlYzdiNTgw%40thread.v2/0?context=%7b%22Tid%22%3a%223f8a7bc4-e337-47a5-a0fc-0d512c0e05f1%22%2c%22Oid%22%3a%220221598d-680d-4bbd-b93a-6a81ee6dfc44%22%7d
+
+TL5 SP3
+C:\Users\PerumalPanchavarnam\Documents\Peru\IBM_folder\IBM_folder\HRA\test
+google cloud academy
+----------------------
+https://kyndryl.slack.com/archives/C03BE8FKCBS
+https://partner.cloudskillsboost.google/
+ - gcp-2022-1hcohort-april-to-july 
+
+ssh-keygen -t rsa -b 3072
+
+szabwa4.ssdc.kp.org  QA2 PSB
+szabwa8.ssdc.kp.org
+
+https://kp.service-now.com/incident.do?sys_id=f67ef7eb87fb0d5065ea43f7cebb35b9&sysparm_record_target=incident&sysparm_record_row=3&sysparm_record_rows=3&sysparm_record_list=active%3Dtrue%5Eassignment_group%3D719e8f21db099b408b787b6b8c961949%5EORassignment_group%3D7d9e8f21db099b408b787b6b8c96193d%5Estate%3D1%5EORstate%3D2%5EORstate%3D3%5EORDERBYassigned_to
+
+Units
+0-50 -   free
+50-100   Rs 3.5
+100-200  Rs 4.6
+> 250    Rs 6.6
+Along with that TNEB is charging Rs 50 as Fixed charges. so add Rs 25 each 
+
+
+./wsadmin.sh -lang jython -profileName UNManagedENG00001 -c "AdminTask.setJVMSystemProperties('[-serverName Server_0001 -nodeName szabap15 -propertyName com.ibm.ws.console.disable.liberty.advisor -propertyValue true]')"
+
+csc2cxn00021039.cloud.kp.org  - cdis -kpath container server.
+TNEB- kumaran nagar
+092800045990
+092800045779
+092800045991 2374
+aadhar
+713123541161  peru
+368499123812  Rani
+222937721940 Nivi
+laptop checking
+----------------
+https://beekeeper.nus.apps.cirrus.ibm.com
+
+Completed reverse proxy configuration setup for KPSOM application (Enhancement)
+NON-PROD DMZ server configuration for KPEG / KPEDITS
+configuration for NPS - UAT2
+certificate setup on NON-PROD DMZ reverse proxy servers for videovisit,KPEG,KPSOM and KPEDITS application (Application deployment)
+migrated from RHEL 7 to RHEL 8 QA server for MyHR Datacap application (TRO and enhancememt)
+DMZ PROD server certificate renewal for Videovisit.(Application deployment)
+Completed Autocap- EMWS Websphere configuration (New application)
+
+
+
+
+
+                                                                                                     
+
+
+./imcl uninstall com.ibm.websphere.IBMJAVA.v70 com.ibm.websphere.IBMJAVA.v80 com.ibm.websphere.ND.v85 -installationDirectory /apps/WebSphere/AppServer-8.5 -sP/
+./imcl uninstall com.ibm.websphere.PLG.v85 -installationDirectory /apps/WebSphere/Plugins-8.5 -sP
+
+./imcl uninstall com.ibm.websphere.IHS.v85 -installationDirectory /apps/IBMIHS/IBMIHS-8.5 -sP
+./imcl listInstalledPackages
+
+
+
+
+https://techtv.bemyapp.com/#/event    •       March 16 at 11:00 am ET- Deploy WebSphere Automation on hosted OpenShift platforms with Michael Thompson and Barbara Jones
+ 9.0.5.3-ws-was-ifph41676.zip
+
+ 9.0.5.3-ws-wasprod-ifph42762.zip
+
+ 9.0.5.6-ws-was-ifph42759.zip
+
+ 9.0.5.6-ws-was-ifph42899.zip
+
+9003153292 -A kal
+9342461578 -B - no
+7200627753 -PAD - 
+
+8668146046 9382701648
+
+7397545815
+7200470325
+
+8754425595- singaravelan rose petals
+
+
+'SsSRnvjm-t~L4;+
+
+	
+PERUMAL PANCHAVARNAM/AP/OCEAN
+Dept department code 2HL
+Kyndryl employee ID -001T5Q744
+
+
+### Jacl
+set Sync1 [$AdminControl completeObjectName type=NodeSync,node=myNodeName,*]
+$AdminControl invoke $Sync1 sync
+
+### Jython
+Sync1 = AdminControl.completeObjectName('type=NodeSync,node=myNodeName,*')
+AdminControl.invoke(Sync1, 'sync')
+
+
+Fidelity  800-544-6666
+
+
+
+Kal1uzqx123@456789 - 
+
+
+blue diamond (peru1234), - Aug 02 2022
+
+
+
+bluediamond
+-------------
+sftp peru1234@msciftpgw.im-ies.ibm.com
+ sftp my_userid@msciftpgw.im-ies.ibm.com
+
+
+986535-6650
+ 
+
+
+35.205.169.150  - mynet-eu-vm
+35.224.62.4        management-us-vm
+
+
+
+AdminTask.setJVMSystemProperties('[-serverName devP3_MESSAGING -nodeName pzadwai3 -propertyName log4j2.formatMsgNoLookups -propertyValue true]')
+AdminTask.setJVMSystemProperties('[-serverName devP3_PROVIDER -nodeName pzadwai3 -propertyName log4j2.formatMsgNoLookups -propertyValue true]')
+
+
+
+ARS PHARM EPIMS SUPPORT  - POS/EPIMS 
+pzadwai9
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_KPATHSService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminConfig.save()
+
+wsadmin.sh -lang jython
+AdminTask.setJVMSystemProperties('[-serverName P2_R3_kp_org_BookingService_2 -nodeName czapwai15 -propertyName log4j2.formatMsgNoLookups -propertyValue true]')
+AdminTask.setJVMSystemProperties('[-serverName P2_R3_kp_org_BookingService_4 -nodeName czapwai15 -propertyName log4j2.formatMsgNoLookups -propertyValue true]')
+AdminTask.setJVMSystemProperties('[-serverName P2_R3_kp_org_KPATHSService_2 -nodeName czapwai15 -propertyName log4j2.formatMsgNoLookups -propertyValue true]')
+)
+
+
+application/x-java-jnlp-file jnlp
+-------------------
+log4j2.formatMsgNoLookups --> true
+Security 
+Bulletin : Vulnerability in Apache Log4j affects WebSphere Application Server (CVE-2021-44228)
+
+Audience : All application using WebSphere Application Server 9.0
+            Immediate action to the application who are internat facing
+Action   : Remove /apps/WebSphere/AppServer-9.0/systemApps/isclite.ear/kc.war/WEB-INF/lib/log4j*.jar from any system running the WebSphere admin console
+          Restart the dmgr 
+         :  For application using log4j inside your application ear, Please check with your developer nd remove the jar file from the application eaKpath r
+
+
+
+Information:
+ https://www.ibm.com/support/pages/node/6525706
+
+
+SUppo
+https://ppydalinmbz01.sl.bluecloud.ibm.com/services/in/kyndryl-lpa/doPQALogin.action
+LPA link
+SPIMS
+------
+
+QA  - https://csc2cxn00021117.cloud.kp.org:10001/ibm/console
+
+UAT - https://csc2cxn00021117.cloud.kp.org:11001/ibm/console
+
+Prod - https://csc2cxp00022060.cloud.kp.org:11001/ibm/console
+
+
+kannkar / Srinivasa@123456
+
+
+
+9990 is the default port. If it’s installed on server1 then you need to access like:
+
+http://server1:9990/admin-console
+
+To increase the heap size 
+
+standalone.conf file
+
+
+
+[18-11-2021 00:35] Ricky Tran
+DEV: https://pzadwai3.pldc.kp.org:15001/ibm/console
+
+[18-11-2021 00:35] Ricky Tran
+STG: https://pzadwbi2.pldc.kp.org:15001/ibm/console
+
+[18-11-2021 00:35] Ricky Tran
+QA: https://pzadwai5.pldc.kp.org:15001/ibm/console
+
+csc2cxn00021738.cloud.kp.org - new qadrop
+find . -type f -name "*.xml" -print|xargs perl -i -pe 's/AppServer-8.5/AppServer-9.0/g'
+pzadapi1.pldc.kp.org new kpath qadrop server
+
+./WASPreUpgrade.sh /data/appdata/migration/ndmKpathsWSProdP2  /apps/WebSphere/AppServer-8.5 -oldProfile ndmKpathsWSProdP2 -requireEmbeddedDBMigration false -username m554538a ----- 's64ZVP!;Wa!+mL5W'
+
+./WASPreUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP2  /apps/WebSphere/AppServer-8.5 -oldProfile ManagedKpathsWSProdP2 -requireEmbeddedDBMigration false -username m554538a ----- 's64ZVP!;Wa!+mL5W'
+
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKpathsWSProdP2  -includeApps true -keepDmgrEnabled true -oldProfile ndmKpathsWSProdP2 -profileName nndmKpathsWSProdP2 -setPorts 30000 -clone true -newDmgrHostname nzapwai16.nndc.kp.org -newDmgrSoapPort 30003       
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP2   -profileName ManagedKpathsWSProdP2 -includeApps true -keepDmgrEnabled true -oldProfile ManagedKpathsWSProdP2 -setPorts 30100 -clone true -newDmgrHostname nzapwai16.nndc.kp.org -newDmgrSoapPort 30003  -username m554538a ----- 's64ZVP!;Wa!+mL5W'
+
+----------------------------------------
+portal.medibuddy.in
+-------------------
+001T5Q@kyndryl/ Kal1uzqx123@456
+
+
+
+http://ansible-tower-nalab-rp.mybluemix.net/#/login
+https://github.kyndryl.net/Continuous-Engineering/tower-inventory-management
+https://continuous-engineering.eu-de.mybluemix.net/markdown/Continuous-Engineering%2FCE-Documentation%2Fblob%2Fmaster%2FAsset%20Catalogs%2Findex.md
+https://github.kyndryl.net/Continuous-Engineering/ansible-role-websphere-upgrade
+
+https://github.kyndryl.net/Continuous-Engineering/ansible_role_ibm-was-install-update
+
+
+
+
+
+13. egrep "/apps/WebSphere/AppServer-9.0/profiles/ManagedQA/config .* MemberPrescSVC_ap19[ ]*$" is NOT in the process table
+20210901T154908 INFO Accumulated pattern/freeform return code:                     0011110000001
+
+14. egrep "/apps/WebSphere/AppServer-9.0/profiles/ManagedQA/config .* PrefNotification_ap19[ ]*$" is NOT in the process table
+
+
+
+
+
+/qadrop/kpaths/R4/was9/prod
+
+
+AdminTask.setJVMSystemProperties('[-serverName Server_00001 -nodeName szabap15 -propertyName com.ibm.ws.console.disable.liberty.advisor -propertyValue true]')
+
+AdminTask.setJVMSystemProperties('[-serverName Server_00001 -nodeName szabap15 -propertyName shen.test.property]')
+
+ AdminConfig.save()
+
+AdminTask.setJVMSystemProperties('[-serverName server1 -nodeName Node01 -propertyName shen.test.property -propertyValue true]') AdminConfig.save()
+
+AdminTask.delJVMSystemProperties('[-serverName server1 -nodeName Node01 -propertyName shen.test.property ]') AdminConfig.save()
+
+print AdminTask.help('-commands')
+print AdminTask.help('-commands *create* ')
+AdminTask.setJVMSystemProperties('[-serverName server1 -nodeName pzadwai1 -propertyName com.ibm.ws.console.disable.liberty.advisor -propertyValue false]') AdminConfig.save()
+
+wsadmin.sh -lang jython 
+AdminConfig.remove('(cells/szabap15ENG00001/nodes/szabap15/servers/Server_00001|server.xml#Property_1633451349225)')
+
+
+AdminConfig.create('Property', '(cells/ndmNPSUAT02Cell/nodes/pzadwac34DmgrNode/servers/dmgr|server.xml#JavaVirtualMachine_1)', '[[validationExpression ""] [name "test"] [description ""] [value "test"] [required "false"]]')
+AdminConfig.list('Property', '(cells/ndmNPSUAT02Cell/nodes/pzadwac34DmgrNode/servers/dmgr|server.xml#JavaVirtualMachine_1)') 
+
+
+AdminConfig.create('Property', '(cells/ndmNPSUAT02Cell/nodes/pzadwac35AppNode/servers/jmsserver|server.xml#JavaVirtualMachine_1606889213833)', '[[validationExpression ""] [name "test"] [description ""] [value "testpass"] [required "false"]]')
+AdminConfig.list('Property', '(cells/ndmNPSUAT02Cell/nodes/pzadwac35AppNode/servers/jmsserver|server.xml#JavaVirtualMachine_1606889213833)') 
+
+
+
+bccperumal   Kal1uzqx123@456 https://authn.edx.org/welcome
+[k\5(RNs
+kyndryl meeting link for sunrise call
+https://kyndryl.webex.com/meet/gargie.rawatt
+
+https://kyndryl.webex.com/meet/prashanth.v
+
+
+pbrun su – tomcat -s /bin/bash and test.
+perl -i -p -e 's/IBMIHS-8.5/IBMIHS-9.0/g;' *.xml
+perl -i -p -e 's/nobody/wasadm:/g;' *.conf
+
+
+Find & Replace string in multiple files & folders using perl
+find . -type f -name "*.xml" -print|xargs perl -i -pe 's/AppServer-8.5/AppServer-9.0/g'
+
+
+openssl pkcs12 -export -in IVVRevProxy-NP.pfx -out key.p12
+
+/apps/was/sharelib/Oracle/19c/ojdbc8.jar
+
+[8/24/21 8:55:19:002 PDT] 0000009a RLSHAGroupCal W   CWRLS0030W: Waiting for HAManager to activate recovery processing for local WebSphere server. For more information about how to trouble-shoot startup, see http://www14.software.ibm.com/webapp/wsbroker/redirect?version=phil&product=was-nd-mp&topic=ttrb_server_startup
+
+ ../bin/htpasswd -b admin.passwd wasadm wasadm
+
+Transition Notes ID:
+
+    Notes Name and Domain:
+
+https://csc2cxp00002377.cloud.kp.org:16311/ibm/console/logon.jsp  GMM Mode
+https://bic.kp.org/eEye.RetinaCSSAML    ---- safe
+
+	
+
+     Perumal Panchavarnam/AP/Ocean @ Ocean
+
+User Shortname	 IN001T5Q
+ID filename	IN001T5Q.ID
+Notes ----:	dxJN28$()b=ufC*
+	(----s are case sensitive and must be entered as shown)
+
+
+
+WAS 8.5 uninstall steps-
+-------------------------
+./imcl uninstall 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH18481 -installationDirectory /apps/WebSphere/AppServer-8.5 -sP
+
+
+
+./imcl install 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH24910  -repositories /logs/Patches/8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH24910 -installationDirectory /apps/WebSphere/AppServer-8.5 -acceptLicense -showProgress
+
+./imcl install 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH24911 -repositories /logs/Patches/8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH24911 -installationDirectory /apps/WebSphere/AppServer-8.5 -acceptLicense -showProgress
+
+./imcl install 8.5.5.12-WS-WASProd-IFPI85892 -repositories /logs/Patches/8.5.5.12-ws-wasprod-ifpi85892 -installationDirectory /apps/WebSphere/AppServer-8.5 -acceptLicense -showProgress
+
+./imcl install 8.5.5.9-WS-WAS-IFPI73197 -repositories  /logs/Patches/8.5.5.9-ws-was-ifpi73197 -installationDirectory /apps/WebSphere/AppServer-8.5 -acceptLicense -showProgress
+
+./imcl install 8.5.5.0-WS-WASND-IFPH11655 -repositories  /logs/Patches/8.5.5.0-ws-wasnd-ifph11655 -installationDirectory /apps/WebSphere/AppServer-8.5 -acceptLicense -showProgress
+-----------------------------------------------------------------
+
+
+
+kotak account# HF38406100
+CRN -470465540 perumal
+     470535541 panchavarnam
+
+
+
+
+
+
+
+
+./WASPreUpgrade.sh /data/appdata/migration/ndmKpathsWSProdP2  /apps/WebSphere/AppServer-8.5 -oldProfile ndmKpathsWSProdP2 -requireEmbeddedDBMigration false -username m554538a ----- $~>,sfM{4SCIma.U
+
+/WASPreUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP1  /apps/WebSphere/AppServer-8.5 -oldProfile ManagedKpathsWSProdP1 -requireEmbeddedDBMigration false -username m554538a ----- $~>,sfM{4SCIma.U
+
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKpathsWSProdP1  -includeApps true -keepDmgrEnabled true -oldProfile ndmKpathsWSProdP1 -profileName ndmKpathsWSProdP1 -setPorts 30000 -clone true -newDmgrHostname czapwai14.crdc.kp.org -newDmgrSoapPort 30003       
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP1   -profileName ManagedKpathsWSProdP1 -includeApps true -keepDmgrEnabled true -oldProfile ManagedKpathsWSProdP1 -setPorts 30100 -clone true -newDmgrHostname czapwai14.crdc.kp.org -newDmgrSoapPort 20003  -username m554538a ----- =q[\(bR}HihJ]7sxD
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKpathsWSProdP1  -includeApps true -keepDmgrEnabled true -oldProfile ndmKpathsWSProdP1 -profileName ndmKpathsWSProdP1 -setPorts 30000 -clone true -newDmgrHostname nzapwai15.crdc.kp.org -newDmgrSoapPort 30003    
+                                                                                                                   ndmKpathsWSProdP1   
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP1   -profileName ManagedKpathsWSProdP1 -includeApps true -keepDmgrEnabled true -oldProfile ManagedKpathsWSProdP1 -setPorts 35000 -clone true -newDmgrHostname czapwai14.crdc.kp.org -newDmgrSoapPort 30003  -username m554538a ----- =q[\(bR}HihJ]7sxD
+
+
+=q[(bR}HihJ]7sxD
+./manageprofiles.sh -create – profileName ndmKpathsWSProdP1 -profilePath /apps/WebSphere/AppServer-9.0/profiles/ndmKpathsWSProdP1 -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/dmgr -cellName ndmKpathsWSProdP1 -hostName czapwai14.crdc.kp.org -nodeName  czapwai14Manager -startingPort 35000
+
+./manageprofiles.sh -create – profileName ndmKpathsWSProdP1 -profilePath /apps/WebSphere/AppServer-9.0/profiles/ndmKpathsWSProdP1 -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/dmgr -cellName ndmKpathsWSProd -hostName nzapwai15.nndc.kp.org -nodeName  nzapwai15Manager -startingPort 40000
+
+./manageprofiles.sh -create – profileName ManagedKpathsWSProdP1 -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKpathsWSProdP1 -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed -cellName ndmKpathsWSProd -hostName nzapwai15.nndc.kp.org -nodeName  nzapwai15 -startingPort 30100
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP1   -profileName ManagedKpathsWSProdP1 -includeApps true -keepDmgrEnabled true -oldProfile ManagedKpathsWSProdP1 -setPorts 35000 -clone true -newDmgrHostname nzapwai15.nndc.kp.org -newDmgrSoapPort 30005  -username m554538a ----- "M=*j-e5d7sJ@GmHK"
+
+./manageprofiles.sh -create -profileName  ManagedKpathsWSProdP1  -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKpathsWSProdP1  -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed   -cellName ndmKpathsWSProdP1  -hostName czapwai15.crdc.kp.org -nodeName czapwai15  -startingPort 30500
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP1   -profileName ManagedKpathsWSProdP1 -includeApps true -keepDmgrEnabled true -oldProfile ManagedKpathsWSProdP1 -setPorts 35000 -clone true -newDmgrHostname czapwai14.crdc.kp.org -newDmgrSoapPort 30003  -username m554538a ----- "M=*j-e5d7sJ@GmHK"
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSProdP1   -profileName ManagedKpathsWSProdP1 -includeApps true -keepDmgrEnabled true -oldProfile ManagedKpathsWSProdP1 -setPorts 35000 -clone true -newDmgrHostname czapwai14.crdc.kp.org -newDmgrSoapPort 30003  -username svcbindKPATHPROD ----- V08zfR3
+
+
+
+
+
+
+
+perl -pi -e 's/ap22/ap24/g' *
+perl -pi -e 's/8.5/9.0/g' *
+perl -pi -e 's/DefaultType/#DefaultType/g' *
+
+perl -pi -e 's/IBMIHS-8.5/IBMIHS-9.0/g' *IHS*/servers/*/*.xml
+perl -pi -e 's/Plugins-8.5/Plugins-9.0/g' *IHS**/servers/*/*.xml
+perl -pi -e 's/apps\/conf/apps\/conf\/was_9/g' *IHS*/servers/*/*.xml
+perl -pi -e 's/8008/8009/g'  *IHS*/serverindex.xml
+/apps/IBMIHS/IBMIHS-9.0/bin/htpasswd  -b /apps/IBMIHS/IBMIHS-9.0/conf/admin.passwd wasadm wasadm
+/apps/IBMIHS/IBMIHS-9.0/bin/adminctl -k start
+perl -pi -e 's/\/was_9/was_9/g' *IHS*/servers/*/*.xml
+-Xverbosegclog:/apps/WebSphere/AppServer-9.0/profiles/ManagedNPSST/logs/NPS_RUW_2/verbosegc.%seq.log,10,7000 -Xms1280m -Xmx4096m -Xcompressedrefs -Xscmaxaot16M -Xscmx120M -Dws.ext.dirs=
+
+
+
+C:\Program Files (x86)\Excelsoft\ESSecureBrowser\LaunchSB.htm
+1)Take  backup of ~wasadm/var  and ~wasadm/etc 
+2)Take a backup of  IMShared , InstallationManager 'SDP70Shared 
+from /apps/WebSphere/IBM
+3) Take a backup of /apps/WebSphere/AppServer-9.0 
+
+Backuout Plan 
+-------------------
+Restore the directory  /apps/WebSphere/AppServer-9.0
+Restore the directory  ~wasadm/var  and ~wasadm/etc 
+Restore the directory  IMShared , InstallationManager 'SDP70Shared 
+from /apps/WebSphere/IBM
+
+
+servers not used b POS
+ szabwa21.ssdc.kp.org
+    szabwa28.ssdc.kp.org
+    szabwa29.ssdc.kp.org  
+csc2wp00007665.cloud.kp.org
+dzc2cxp00000192.kp-dmz.org	
+https://cskpcloudxn1364.cloud.kp.org:10001/ibm/console
+Kal1uzqx1@12345
+HClNotes -->NeethandiNivedha
+}7Eb{g<V
+
+58923147- hfcsec
+SPAS Gen-F WebSphere consoles:
+
+Dev: https://csc2cxn00003664.cloud.kp.org:10001/ibm/console
+QA: https://csc2cxn00003664.cloud.kp.org:13001/ibm/console/
+TRAIN: https://csc2cxn00003664.cloud.kp.org:14001/ibm/console/
+Pre-Prod: https://csc2cxp00004809.cloud.kp.org:10001/ibm/console/
+
+INC10920268
+
+svcbindPLMSNonProd   ZNnmSa%x.Dp1Py&k
+svcbindSPIMSNonProd  sdBEjQtx%530eU4b
+ svcbindSPIMSProdn   H#SfX9^jJLR+7tY4
+svcbindPACTSNonProd  tHn/7jZ4|Wl=8#^I
+svcbindPACTSProd  v%OuhLe=6IFxSbn@
+aWATQ4~S9I#yiwne
+
+./manageprofiles.sh -create – profileName ndmKpathsTrn   -profilePath /apps/WebSphere/AppServer-9.0/profiles/ndmKpathsTrn   -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/dmgr -cellName ndmKpathsTrn -hostName nzarwai1.nndc.kp.org -nodeName  nzarwai1ManagerP1 -startingPort 15000
+./manageprofiles.sh -create -profileName  ManagedKpathsTrn  -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKpathsTrn  -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed   -cellName ndmKpathsTrn  -hostName nzarwai1.nndc.kp.org -nodeName nzarwai1  -startingPort 16000
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKpathsTrn  -includeApps true  -keepDmgrEnabled true -oldProfile ndmKpathsTrn  -profileName ndmKpathsTrn  -setPorts 15000 -clone true -newDmgrHostname nzarwai1.nndc.kp.org  -newDmgrSoapPort 15003     
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsTrn  -includeApps true  -keepDmgrEnabled true  -oldProfile ManagedKpathsTrn -profileName ManagedKpathsTrn  -setPorts 15100 -clone true -newDmgrHostname narwai1.nndc.kp.org -newDmgrSoapPort 15016   -username m554538a -----  "_5'jJzFP"
+
+-------------------
+./manageprofiles.sh -create – profileName ndmKpathsTrn   -profilePath /apps/WebSphere/AppServer-9.0/profiles/ndmKpathsTrn   -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/dmgr -cellName ndmKpathsTrn -hostName czarwai1.crdc.kp.org -nodeName  czarwai1Manager -startingPort 15000
+./manageprofiles.sh -create -profileName  ManagedKpathsTrn  -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKpathsTrn  -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed   -cellName ndmKpathsTrn  -hostName czarwai1.crdc.kp.org -nodeName czarwai1  -startingPort 16000
+
+./WASPreUpgrade.sh /data/appdata/migration/ndmKpathsTrn  /apps/WebSphere/AppServer-8.5 -oldProfile ndmKpathsTrn  -username m554538a -----  _5'jJzFP
+./WASPreUpgrade.sh /data/appdata/migration/ManagedKpathsTrn  /apps/WebSphere/AppServer-8.5 -oldProfile ManagedKpathsTrn  -username m554538a -----  "_5'jJzFP"
+./WASPostUpgrade.sh /data/appdata/migration/ndmKpathsTrn  -includeApps true  -keepDmgrEnabled true -oldProfile ndmKpathsTrn  -profileName ndmKpathsTrn  -setPorts 15000 -clone true -newDmgrHostname czarwai1.crdc.kp.org  -newDmgrSoapPort 15003     
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsTrn  -includeApps true  -keepDmgrEnabled true  -oldProfile ManagedKpathsTrn -profileName ManagedKpathsTrn  -setPorts 15100 -clone true -newDmgrHostname carwai1.crdc.kp.org -newDmgrSoapPort 15015   -username m554538a -----  "_5'jJzFP"
+
+--------------------
+
+./manageprofiles.sh -create – profileName ndmKpathsWSDev   -profilePath /apps/WebSphere/AppServer-9.0/profiles/ndmKpathsWSDev   -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/dmgr -cellName ndmKpathsWSDev -hostName pzadwai9.pldc.kp.org -nodeName  pzadwai9Manager -startingPort 15000
+
+./manageprofiles.sh -create -profileName  ManagedKpathsWStg  -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKpathsWSStg  -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed   -cellName ndmKpathsWSDev  -hostName pzadwai10.pldc.kp.org -nodeName pzadwai10  -startingPort 16000
+
+
+
+./WASPreUpgrade.sh /data/appdata/migration/ManagedKpathsSTG  /apps/WebSphere/AppServer-8.5 -oldProfile ManagedKpathsSTG  -username m554538a ----- AaeVSm3-
+
+stgP2_DTDS
+./WASPreUpgrade.sh /data/appdata/migration/ndmKpathsSTG  /apps/WebSphere/AppServer-8.5 -oldProfile ndmKpathsSTG -username m554538a -----  AaeVSm3-
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsSTG  -includeApps true  -keepDmgrEnabled true  -oldProfile ManagedKpathsSTG -profileName ManagedKpathsSTG  -setPorts 15100 -clone true -newDmgrHostname pzadwbi2.pldc.kp.org -newDmgrSoapPort 15016   -username m554538a -----  "AaeVSm3-"
+
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKpathsSTG  -includeApps true  -keepDmgrEnabled true -oldProfile ndmKpathsSTG  -profileName ndmKpathsSTG  -setPorts 15000 -clone true -newDmgrHostname pzadwbi2.pldc.kp.org -newDmgrSoapPort 15003     
+
+
+./manageprofiles.sh -create – profileName ManagedKPATHSNASCARPCM   -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKPATHSNASCARPCM   -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed -cellName ndmKPATHSNASCARPCM -hostName pzauwai9.pldc.kp.org -nodeName   pzauwai10Node01 -
+
+./manageprofiles.sh -create -profileName  ManagedKpathsWStg  -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedKpathsWSStg  -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed   -cellName ndmKpathsWSDev  -hostName pzadwai10.pldc.kp.org -nodeName pzadwai10  -startingPort 16000
+
+./WASPreUpgrade.sh /data/appdata/migration/ManagedKPATHSNASCARPCM  /apps/WebSphere/AppServer-8.5 -oldProfile ManagedKPATHSNASCARPCM -username m554538a ----- /q4ZzTs_
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKPATHSNASCAR  -includeApps true  -keepDmgrEnabled true -oldProfile ndmKPATHSNASCAR  -profileName ndmKPATHSNASCAR  -setPorts 25000 -clone true -newDmgrHostname pzadwai9.pldc.kp.org -newDmgrSoapPort 25003 
+  
+  ./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSPCM  -includeApps true  -keepDmgrEnabled true  -oldProfile ManagedKpathsWSPCM -profileName ManagedKpathsWSPCM  -setPorts 26000 -clone true -newDmgrHostname pzauwai9.pldc.kp.org -newDmgrSoapPort 25181 -username m554538a ----- \c9qaUZ(  
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKPATHSNASCARPCM  -includeApps true  -keepDmgrEnabled true  -oldProfile ManagedKPATHSNASCARPCM -profileName ManagedKPATHSNASCARPCM  -setPorts 31000 -clone true -newDmgrHostname pzauwai9.pldc.kp.org -newDmgrSoapPort 30003   -username m554538a ----- "\c9qaUZ("
+
+
+./WASPostUpgrade.sh /data/appdata/migration/ndmKPATHSNASCAR  -includeApps true  -keepDmgrEnabled true -oldProfile ndmKPATHSNASCAR  -profileName ndmKPATHSNASCAR  -setPorts 25000 -clone true -newDmgrHostname pzadwai9.pldc.kp.org -newDmgrSoapPort 25003     
+
+./WASPostUpgrade.sh /data/appdata/migration/ManagedKpathsWSDev  -includeApps true  -keepDmgrEnabled true  -oldProfile ManagedKpathsWSDev -profileName ManagedKpathsWSDev  -setPorts 15100 -clone true -newDmgrHostname pzadwai9.pldc.kp.org -newDmgrSoapPort 15024    -
+ManagedKpathsWSDce
+dmz -qKZ6bEbGqKZ6bEbG
+
+
+
+tar cvf /backupConfig/ProfileBackup_${WAS_CELL}_${WAS_NODE}_${date1}.tar /backupConfig/*_${date1}.zip
+tar cvf /apps/backupconfig/ProfileBackup_${WAS_CELL}_${WAS_NODE}_${date1}.tar /apps/backupconfig/*_${date1}.zip
+tar -cvf /apps/backupconfig/ProfileBackup___2021-03-02--06:16.tar '/apps/backupconfig/*_2021-03-02--06:16.zip'
+
+-
+
+
+
+/qadrop/kpaths/Oracle19c for new kpath jdbc driver
+/apps/WebSphere/AppServer-8.5/profiles/ndmKpathsPcmP1/bin/backupConfig.sh -nostop dmgrwas8.5backup.zip
+ManagedKpathsPcmP1  ManagedKpathsPcmP2  ManagedKpathsPcmP3  ndmKpathsPcmP1      ndmKpathsPcmP2      ndmKpathsPcmP3
+csc2cxn00004913.cloud.kp.org
+ wget -no-check-certificate https://pdcl047091.pldc.kp.org
+curl --insecure -vvI https://cskpcloudxn2576.cloud.kp.org:11001/ibm/console/login.do 2>&1 | awk 'BEGIN { cert=0 } /^\* SSL connection/ { cert=1 } /^\*/ { if (cert) print }'
+
+wget -no-check-certificate https://cskpcloudxn2576.cloud.kp.org:11001/ibm/console/login.do
+WRKA0975
+https://csc2cxn00004354.cloud.kp.org:10001/ibm/console
+https://kp.service-now.com/nav_to.do?uri=sys_user_grmember.do?sys_id=68257367dbfbb3c402116ce2ca9619ff
+ASG CDAS RA CO APPLICATION SERVICES
+
+CDTS ADS CCCS DATA  -KPATHS SNOW 
+Listen 172.22.100.61:81
+Listen 172.22.100.61:444
+
+
+
+
+
+
+
+pzxdap141.pldc.kp.org    172.17.25.53
+pzxdap142.pldc.kp.org    172.17.25.54
+pzxdap143.pldc.kp.org    172.17.25.55
+ root/ VMware1!
+CN=wasadminKPATHUAT,OU=Groups,OU=WebSphere Enterprise,OU=Enterprise Applications,DC=cs,DC=msds,DC=kp,DC=org@CS.MSDS.KP.ORG:389 
+
+UNIX role: UNIX IBM WEB Infrastructure Support
+Unix group:  pbwebis.
+G487860a
+J@swanth2013f
+
+ 
+
+http://pzxdap141.pldc.kp.org/
+http://csc2cxn00004289.cloud.kp.org/
+csc2cxn00004281.cloud.kp.org
+csc2cxn00004285.cloud.kp.org
+csc2cxn00004284.cloud.kp.org
+csc2cxn00004289.cloud.kp.org
+google -> search ->cloud garage architecture cebter
+
+180
+100
+0
+180
+180
+0
+ASG CDAS EPIMS POS   epims SNOW group
+ Can you check that DC names against with the server name all looks like a similar types od DCs.
+All the  DC are showing offline on the HTEMS.fepims
+
+Please confirm if it’s not require we can remove the offline entry from the HTEMS.
+PE6s+x5C
+
+---- safe
+https://bic.kp.org/eEye.RetinaCSSAML
+
+
+
+
+ 
+svcbindSPASNonProd   --->  aWATQ4~S9I#yiwne
+svcbindSPASProd --> EcU|pLp8bAM&2X%c 
+svcbindMSSAProd-->   U|l^-7TN&ZZ7Aftm
+svcbindMSSAnonProd-->  v%&2j7DpKA@jYKLS
+http://172.22.49.59:1920///cnp/kdh/lib/tep.jnlp - ENV3
+http://172.22.49.60:1920///cnp/kdh/lib/tep.jnlp - ENV4
+http://172.22.49.57:1920///cnp/kdh/lib/tep.jnlp - ENV5
+http://172.22.49.58:1920///cnp/kdh/lib/tep.jnlp - ENV6
+http://172.22.49.56:1920///cnp/kdh/lib/tep.jnlp - ENV1
+http://172.22.49.61:1920///cnp/kdh/lib/tep.jnlp - ENV2 
+./manageprofiles.sh -create -profileName  ManagedNPSUAT03 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedNPSUAT03 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/managed  -hostName pzadwac35.pldc.kp.org  -nodeName pzadwac35AppNode 
+./manageprofiles.sh -create -profileName  ManagedNPSUAT03 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedNPSUAT03 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/managed  -hostName pzadwac34.pldc.kp.org  -nodeName pzadwac34AppNode 
+
+./manageprofiles.sh -create -profileName ndmNPSUAT03 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmNPSUAT03 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr  -hostName  pzadwac34.pldc.kp.org -cellName ndmNPSUATCell  -nodeName pzadwac34DmgrNode  -startingPort 20000
+/apps/WebSphere/AppServer-8.5/manageprofiles.sh –delete –profileName ndmNPSAT02
+
+
+
+AT
+./manageprofiles.sh -create -profileName ndmNPSAT02 -profilePath /apps/WebSphere/AppServer-9.0/profiles/ndmNPSAT02 -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/dmgr  -hostName  nzadie1.nndc.kp.org -cellName ndmNPSAT02Cell  -nodeName nzadie1DmgrNode  -startingPort 20000
+./manageprofiles.sh -create -profileName  ManagedNPSAT02 -profilePath /apps/WebSphere/AppServer-9.0/profiles/ManagedNPSAT02 -templatePath /apps/WebSphere/AppServer-9.0/profileTemplates/managed  -hostName nzadie1.nndc.kp.org -nodeName nzadie1AppNode 
+
+./manageprofiles.sh -create -profileName  AppSrv01  -profilePath /opt/IBM/WebSphere/AppServer-9.0/profiles/AppSrv01 -templatePath /opt/IBM/WebSphere/AppServer-9.0/profileTemplates/managed  -hostName pzxdap141.pldc.kp.org  -nodeName pzxdap141AppNode 
+
+
+csc2cxp00001966
+MSSA servers
+https://szaqwa5.ssdc.kp.org:10001/ibm/console/login.do?action=secure
+https://csc2cxn00004315.cloud.kp.org:10001/ibm/console/logon.jsp
+
+
+./wsadmin.sh -conntype NONE -lang jython
+
+
+
+./manageprofiles.sh -create -profileName  ndmProd_POSP2P -profilePath /apps/WebSphere/AppServer-8.5_P2P/profiles/ndmProd_POSP2P -templatePath /apps/WebSphere/AppServer-8.5_P2P/profileTemplates/dmgr -hostName pwasndc04.nndc.kp.org -cellName pwasndc04DmgrCell -nodeName pwasndc04DmgrNode -startingPort 41000
+
+
+
+AdminTask.changeHostName('[-nodeName xnzadwa5xDMGR -hostName nzadwa5.nndc.kp.org]') 
+AdminTask.changeHostName('[-nodeName nzapwa41CellManager01 -hostName pwasndc04.nndc.kp.org]')
+
+AdminTask.changeHostName('[-nodeName xnzadwa3xApp -hostName nzadwa3.nndc.kp.org]')
+
+
+	scars.appl.kp.org to check the ownership of the server and atlas 
+https://kaiser.alfabetcloud.com/
+http://pzabap11.pldc.kp.org/
+
+
+
+svc account 
+------------------
+svcbindMOSLProd, svcbindMOSLnonProd
+svcbindPTNTProd,svcbindPTNTnonProd
+svcbindMECProd,svcbindMECnonProd
+
+svcgroups
+------------
+wasadminMOSLProd,wasadminMOSLnonProd
+wasadminPTNTProd,wasadminPTNTnonProd
+wasadminMECProd,wasadminMECnonProd
+
+KPMC server details as below based on environments.
+Development and UAT
+•	csc2cxn00003185 10.15.208.197 --> Dev
+•	csc2cxn00003186 10.15.209.3   --> Dev2
+•	csc2cxn00003184 10.15.200.59  --> UAT
+•	csc2cxn00003774.cloud.kp.org  --> UAT2
+PSUP and Production
+•	csc2cxn00003175 10.15.197.203  --> PSUP (Pre-PROD) --> NDM server
+•	csc2cxn00003178 10.15.200.28   --> PSUP (Pre-PROD) --> Web server
+•	csc2cxn00003179 10.15.208.112   --> PSUP (Pre-PROD) --> Web server
+•	csc2cxn00003176 10.15.197.231   --> PSUP (Pre-PROD) --> App server
+•	csc2cxn00003177 10.15.218.123   --> PSUP (Pre-PROD) --> App server
+•	csc2cxp00004035 10.15.131.235   --> PROD --> NDM server
+•	csc2cxp00004036 10.15.214.158   --> PROD --> App server
+•	csc2cxp00004037 10.15.214.162   --> PROD --> App server
+•	csc2cxp00004038 10.15.214.163   --> PROD --> Web server
+•	csc2cxp00004039 10.15.214.164   --> PROD --> Web server
+ https://cloudrehost.kp.org/
+To submit your decommission request  POST January 28th 2019  fill out this ServiceNow Catalog Request and checkout your cart -> https://kp.service-now.com/sp?id=sc_cat_item&sys_id=48aa4c2ddb470b0003129c94db96199d
+handling Maintenance page server 
+                   KP has around 500 + production middleware servers.
+The applicaion go down or not available for many reason.It could be regular maintenance window for patching, deployment or server down.
+For support teams, system outages make for a tough day at the office, but they can also provide you with an opportunity to stand out  by giving              
+<\M4>rxL
+pzabap11.pldc.kp.org/
+pzabap12.pldc.kp.org
+https://nzxpvm2100.dcld.nndc.kp.org:10501/ibm/console/logon.jsp
+NRT new console details 
+jacob jaypaul
+
+-Djava.compiler=NONE -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=7777
+-Djava.compiler=NONE -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=7792
+
+-Djava.compiler=NONE -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=7792
+
+---
+NRT New console
+https://csc2cxn00003641.cloud.kp.org:10501/ibm/console
+https://csc2cxn00003644.cloud.kp.org:11501/ibm/console
+SPAS_TNI_1
+
+
+-Xgcpolicy:gencon   -Xmn2000m   -Dcollaborati.connection.readTimeout=60  -Doracle.jdbc.V8Compatible=true -Djavax.net.debug=ssl,handshake,data,trustmanager
+
+-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7777
+-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7777
+-Dhttps.protocols=TLSv1.1,TLSv1.2
+-Dhttps.protocols=TLSv1.1,TLSv1.2
+
+
+
+Work on  ACR Global security
+Middleware incident reduction - target (check raveendar email)
+Work on ITCAM  report. (to shekar)
+Interview for 2 candidates.
+Complete training (SEZ)
+draft email about NPS 
+SCTASK1689726	
+
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert  -add -type cms -db  $1 -pw  $2 -label  "Sectigo Rsa Organization" -trust enable -file $scert
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert  -add -type cms -db  $1 -pw  $2 -label  "ComodoRSACertificationAuthorityRoot" -trust enable -file $ccert
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert  -add -type cms -db  $1 -pw $2  -label  "UserTrust RSA Certification Authority" -trust enable -file $ucert
+
+
+slow due to application code or backend
+Hung thread  - The request will not complete .
+slowness is nothing to do with the JVM
+dmz ---- --  bccperumal1234@#$
+q205610a / kannikar@99DS
+G487860a
+J@swanth2013
+In recent mail from NPS app Team said that NPS JVM bouncing duration  reduced from 4 hours to 7 minutes.
+1) can we know what are the steps taken  to make this happen. where the issues persisted and how it was fixed.
+2) can we know whether application leak / bug and how or what method implemented to fix this.Will this fix  solved the hung thread that happens after every restart.
+3) Are there there any Database issues on the application which you were mentioning in the HIGH Bridge call
+4)  did validation started  after 7 minutes of  JVM start. was this validationcompletely tested in  prod .
+5) Do you have estimate time to validate the aplication. (edited) Create a new WebSphere binary on all above servers. Path for binary /apps/WebSphere/AppServer-8.5_P2P
+Install WAS 8.5.5.12 with the following fixes:  IFPI96286, IFPI96287, IFPI85892, IFPI73197
+Assign to Peru. Contact Amar Enugu for any questions.
+
+
+ Estimate for liberty
+======================
+1) Latest fixpack upgrade (20.0.0.6) or using the existing version (19.0.0.12) --> 2 hours
+2) configure log rotation                                                                                    --> 2 hours
+3) Upgrade IHS and plugin to the current patching standard                           --> 4 hours
+4) Configure WAS/IHS to per ADS including clustering                                   --> 10 -15 hours(depends on ADS)
+5) Enable global security with new svc account                                               --> 6 hours
+6) Install ITCAM (if not installed) (for prod only)                                               --> 2 hours
+7) Configure ITCAM for monitoring the JVM(for prod)                                      --> 3 hours
+8) Complete testing/validation/consulting prior to closing out CRQ                 --> 10 hours
+Thank you, The PTASK has been assigned.and will share the findings soon.
+IBM Blue diamond
+sftp pooj123@msciftpgw.im-ies.ibm.com  
+2020_Mnbvcxz@123 
+
+sftp kannkar@msciftpgw.im-ies.ibm.com
+kannkar / Srinivasa@123456
+
+
+
+Userid : sathees
+sftp sathees@msciftpgw.im-ies.ibm.com
+S@theesh.sr2911  
+---- : J@swanth04042013
+
+    command line output: ll /opt /opt/IBM /opt/IBM/HTTPServer /opt/IBM/HTTPServer/logs /opt/IBM/HTTPServer/logs/siddport
+    httpd.conf
+    error_log
+    ps -ef | grep http
+
+Tr, Premkumar <premkumar.tr@accenture.com> To: Kaiser_WAS_India <kaiser_was_india@wwpdl.vnet.ibm.com> Cc: me, Satisha K Chandrashekarappa <satishac@in.ibm.com>, Albert S Kuo <albert.s.kuo@kp.org>, bhagwan.lakkakula (accenture.com) <bhagwan.lakkakula@accenture.com>, Bhagwan Lakkakula <bhagwan.lakkakula@kp.org>, Karthikeyan Kanniappan <karkanni@in.ibm.com>, Prasannavenkatesan Vasudevan <Prasannavenkates.Vasudevan@kp.org>, Genesis M Ballesteros <Genesis.M.Ballesteros@kp.org>, Raveendar R Ramasani <rramasani@in.ibm.com>, Mahesh T. Reddy <Mahesh.T.Reddy@kp.org>, Premkumar T. Ramamoorthy <Premkumar.T.Ramamoorthy@kp.org>, Shekar V Nagaraja1 <shenagar@in.ibm.com>, Michelle R Woodward <Michelle.R1.Woodward@kp.org>, Jessica S. Rosado <Jessica.S.Rosado@kp.org>, NAGARAJAN, GANESH C. <ganesh.c.nagarajan@accenture.com>, Rocio X. Funes <Rocio.G.Funes@kp.org>, DARNICE PERSLEY <Darnice.Persley@kp.org>
+kpcloudXP0370 -  clinical library -Kamran.Khan@kp.org (going to decomm)
+kpcloudXP0371 - clinical library -Kamran.Khan@kp.org (going to decomm)
+kpcloudXP0433 - Connected Environment Requirements- (informed user. He is not sure if he want to renew) senthilnathan.X.Krishnan@kp.org
+kpcloudXP0434 -(informed user. He is not sure if he want to renew)Connected Environment Requirements - senthilnathan.X.Krishnan@kp.org
+czapwb11 - WU4A - we need to create a CRQ
+czapwb10 - WU4A - we need to create a CRQ
+szapdb78 - cis viewer - Richard.C.Osborne@kp.org (decommed)
+czapwb18 - NPS - CRQ backout
+czapwb21 - NPS - CRQ backout
+
+z9P<Ir,u
+Check kpath environemnt
+-------------------------------
+  Sectigo RSA Organization Validation Secure Server CA.crt     Thumbprint: 40cef3046c916ed7ae557f60e76842828b51de53
+   USERTrust RSA Certification Authority.crt    Thumbprint: 2b8f1b57330dbba2d07a6c51f70ee90ddab9ad8e
+   Comodo RSA Certification Authority Root (Base64).crt        Thumbprint: afe5d244a8d1194230ff479fe2f897bbcd7a8cb4
+   Comodo RSA Organization Validation Secure Server CA (Base64).crt    Thumbprint: 104c63d2546b8021dd105e9fba5a8d78169f6b32
+
+print $1 $2
+print 'date'
+ts=`date +%m%d%y%H%M%p`
+``
+/usr/java5/jre/bin/keytool -delete -alias  qaroot -keystore qatrustStore.jks
+
+
+Hi Jessica ,
+          We have initiated this email thread to provide information to PMR team.
+We did not receive any PBI task as a part of RCA for this request.
+Can you please ask them to create one with details that they are looking from our team
+
+
+${APP_INSTALL_ROOT}/ebadwb2Cell01/dev_R30
+keytool -list -v -keystore #####/qatrustStore.jks
+keytool -list -v -keystore  /apps/WebSphere/AppServer/profiles/AppSrv01/installedApps/ebadwb2Cell01/dev_R30_KPATH_KPATHS_ebadwb2.ear/properties/dev/qatrustStore.jks
+
+muE3k?KG
+./manageprofiles.sh -create -profileName Dmgr01 -profilePath /opt/IBM/WebSphere/AppServer-9.0/profiles/Dmgr01 -templatePath /opt/IBM/WebSphere/AppServer-9.0/profileTemplates/dmgr -hostName wzxsvm3103.dcld.wpoc.kp.org -cellName wzxsvmDmgrCell01 -nodeName wzxsvmDmgrNode01 -startingPort 1000
+./manageprofiles.sh -create -profileName AppSrv01 -profilePath /opt/IBM/WebSphere/AppServer-9.0/profiles/AppSrv01 -templatePath /opt/IBM/WebSphere/AppServer-9.0/profileTemplates/default -hostName wzxsvm3103.dcld.wpoc.kp.org -cellName wzxsvmAppCell01 -nodeName wzxsvmAppNode01 -startingPort 20000
+JVM name:  p2pQA1_JVM
+use starting port 41000
+set up stop/start scripts under /apps/was/scripts and /home/wasadm 
+ensure JVM logs are going to /logs (use 5MB/10files for log rotation)
+from Romy Michael V (IBM) to everyone:
+ePIMS POS:  Configure new cell profile for P2P DEV1 to include DMGR, ManagedNode, nodeagent, JVM
+Create the cell under wzadap12.pldc.kp.org:/apps/WebSphere/AppServer-8.5_P2P
+JVM name:  p2pDEV1_JVM
+use starting port 41000
+set up stop/start scripts under /apps/was/scripts and /home/wasadm 
+ensure JVM logs are going to /logs (use 5MB/10files for log rotation)
+from Romy Michael V (IBM) to everyone:
+ePIMS POS:  Configure new cell profile for P2P DEV1 to include DMGR, ManagedNode, nodeagent, JVM
+Create the cell under wzadap12.pldc.kp.org:/apps/WebSphere/AppServer-8.5_P2P
+JVM name:  p2pDEV1_JVM
+use starting port 41000
+set up stop/start scripts under /apps/was/scripts and /home/wasadm 
+ensure JVM logs are going to /logs (use 5MB/10files for log rotation)
+./manageprofiles.sh -create -profileName ndmDev01_POSP2P  -profilePath /apps/WebSphere/AppServer-8.5_P2P/profiles/ndmDev01_POSP2P  -templatePath /apps/WebSphere/AppServer-8.5_P2P/profileTemplates/dmgr -hostName wzadap12.pldc.kp.org -cellName wzadap12Dmgr  -startingPort 41000
+
+./manageprofiles.sh -create -profileName ManagedDev01_POSP2P  -profilePath /apps/WebSphere/AppServer-8.5_P2P/profiles/ManagedDev01_POSP2P -templatePath /apps/WebSphere/AppServer-8.5_P2P/profileTemplates/default -hostName wzadap12.pldc.kp.org -nodeName wzadap12 
+
+ManagedDev01_POSP2P
+ndmDev01_POSP2P
+
+/apps/conf/httpd-p1_kpaths.conf
+/apps/conf/httpd-qap3_c1_kpaths.conf
+/apps/conf/httpd-qaAT_kpaths.conf
+
+
+
+cut -d/  -f2  <<< "aaaaa/bbbbb/ffff/ggggg"
+bbbbb
+
+
+
+
+
+kq*HD4G*
+find . -type f -exec sed -i 's/kpath.kdb/kpath-nonprod.kdb/g' {} +
+
+perl -i -pe 's/kpath.kdb/kpath-nonprod.kdb/g' ./*
+perl -i -pe 's/kpath.kdb/kpath-nonprod.kdb/g' *
+
+POS patches 
+szabwa5
+/data/WEB/Patches
+IFPI20983      IFPI73197      IFPI85892      IFPI96286      IFPI96287      Java8          install_image  was855_fp12
+
+
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install com.ibm.websphere.ND.v85_8.5.0.20120501_1108 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories /data/WEB/Patches/install_image -sharedResourcesDirectory /apps/WebSphere/InstallationManager/IMShared -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P_QA3/Installationlogs/WAS8.5_install.log -sP 
+
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install com.ibm.websphere.ND.v85_8.5.5012.20170627_1018 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories "/workfs/misc/was855_fp12" -acceptLicense -log /apps/WebSphere/WAS8.5.5.12_install.log -sP
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install com.ibm.websphere.IBMJAVA.v80_8.0.3020.20161124_1304 -repositories "/workfs/misc/Java8" -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -properties user.wasjava=java8 -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P/Installationlogs/java8_install.log -sP
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install 8.5.5.12-WS-WASProd-IFPI85892 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories "/workfs/misc/IFPI85892" -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P/Installationlogs/IFPI85892_install.log -sP
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install 8.5.5.9-WS-WAS-IFPI73197 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories "/workfs/misc/IFPI73197" -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P/Installationlogs/IFPI73197_install.log -sP
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPI96286 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories "/workfs/misc/IFPI96286" -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P/Installationlogs/IFPI96286_install.log -sP
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPI96287 -installationDirectory /apps/WebSphere/AppServer-8.5_P2P_QA3 -repositories "/workfs/misc/IFPI96287" -acceptLicense -log /apps/WebSphere/AppServer-8.5_P2P/Installationlogs/IFPI96287_install.log -sP
+-------
+imcl uninstall 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH18482 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH24911  -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories "/workfs/misc/8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH24911" -acceptLicense -log /apps/WebSphere/AppServer-8.5_CO/Installationlogs/IFPH24911_install.log -sP
+imcl uninstall 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH18481 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+/apps/WebSphere/IBM/InstallationManager/eclipse/tools/imcl install 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH24910   -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories "/workfs/misc/8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH24910" -acceptLicense -log /apps/WebSphere/AppServer-8.5_CO/Installationlogs/IFPH24910_install.log -sP
+
+mount  qadrop.crdc.kp.org:/workfs/Software/rafw_media/WAS90/8.0.4.5-WS-IBMWASJAVA-AIX /workfs/javabin
+
+
+mount  qadrop.crdc.kp.org:/workfs/Software/rafw_media/WAS90 /apps/IBMIHS/ihsbin
+
+
+https://ibm.webex.com/meet/kpavan19 
+
+com.ibm.SOAP.loginUserid=svcbindUATHRTS
+com.ibm.SOAP.login----={xor}ESoxKggNOmg=
+NunuWRe7
+
+
+CN=svcbindUATHRTS,OU=WebSphere Enterprise,OU=Service Accounts,DC=cs,DC=msds,DC=kp,DC=org
+
+
+SCTASK1452106 – QA1  szabwa5 in progress--
+
+SCTASK1444746 – Dev1   wzadap12 completed
+
+SCTASK1467135       pzabwa39   inprogress  satisha 
+, SCTASK1467136–    pzabwa38      inprogresss  Karthik 
+
+SCTASK1453273 -      szabwa59 PSUP   inprogress----
+
+SCTASK1459411
+
+cs.msds.kp.org\svcbindHRLOSProd ,  nQiC.@rbPaY8gxg3
+cs.msds.kp.org\svcbindHRLOSNonProd   B%HoQzj.Ax#7@1HL
+
+tel:+12135339530
+
+AdminApplication.updateEntireAppToAnAppWithUpdateCommand("myApp", "c:\new.ear")
+Copy
+
+[AIX][Solaris][Linux][HP-UX]
+
+AdminApplication.updateEntireAppToAnAppWithUpdateCommand("myApp", "/new.ear")
+
+CN=svcbindKPATHPROD,OU=WebSphere Enterprise,OU=Service Accounts,DC=cs,DC=msds,DC=kp,DC=org
+non prod
+xf+Gv4R|@XaZ|dla
+prod
+TV-jx1Q_g%IYpXXh
+11:29
+can you try and confirm..for KPMC..
+11:29
+I will delete it in few minutes..
+
+Karthikeyan KANNIAPPAN  11:
+
+sed -i 's/172.28.40.148/10.15.214.88/g' *
+
+
+
+
+openssl pkcs12 -in certificate.p12 -nodes | openssl x509 -noout -enddate
+
+To check SSL Expiration
+------------------------
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert -list all -expiry 18250 -db /apps/keys/p1_kpaths/kpathpcm.kdb -pw 1nteresT
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert -list all -expiry 18250 -db /workfs/scripts/cert/nps.kdb -pw 1nteresT
+
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert  -add -type cms -db  /workfs/scripts/cert/nps.kdb -pw  1nteresT -label  "Sectigo Rsa Organization" -trust enable -file  /workfs/scripts/cert/Sectigorsa_organization_validation_secure_server.cer
+/apps/IBMIHS/IBMIHS-8.5/bin/gskcmd -cert  -add -type cms -db  /workfs/scripts/cert/nps.kdb -pw  1nteresT -label  "UserTrustRSACertificateionAuthotity" -trust enable -file  /workfs/scripts/cert/UserTrustRSACertificateionAuthotity.cer
+
+
+
+
+
+pool 4 Napa
+csc2cxp00004010.cloud.kp.org
+csc2cxp00004011.cloud.kp.org
+csc2cxp00004012.cloud.kp.org
+csc2cxp00004013.cloud.kp.org
+
+pool4 crdc
+
+csc2cxp00004014.cloud.kp.org
+csc2cxp00004015.cloud.kp.org
+csc2cxp00004016.cloud.kp.org
+csc2cxp00004017.cloud.kp.org
+
+
+
+
+  
+
+
+0000000000000000000000000000000000000000000000000000000000000000000
+
+Install security fix
+----------------------
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.5.5.0-WS-WASND-IFPH11655 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/misc/8.5.5.0-WS-WASND-IFPH11655 -acceptLicense -sP
+
+uninstall standalone java
+-------------------------
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstall 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH18482 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+
+Install latest standalone java
+-----------------------------
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH18481 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/misc/8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH18481 -acceptLicense -sP
+
+uninstall bundled JDK
+----------------------
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstall 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPI96287 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+
+
+Install latest bundled JDK
+--------------------------
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH18482 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/misc/8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPH18482 -acceptLicense -sP
+
+
+
+/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathPilot/bin/wsadmin.sh -lang jython -f  /workfs/script/cfgJvmHeap.py
+/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathPilot/bin/wsadmin.sh -lang jython -f  /workfs/script/cfgWebServer.py
+
+100839779970  -PF number
+----------------------------
+ 
+/apps/WebSphere/AppServer-8.5/bin/manageprofiles.sh -create -profileName UNManagedENG00008 -profilePath "/apps/WebSphere/AppServer-8.5/profiles/UNManagedENG00008" -templatePath "/apps/WebSphere/AppServer-8.5/profileTemplates/default" -CellName szabap15ENG00008 -serverName Server_00008 -nodeName szabap15 -enableAdminSecurity false -startingPort 21500
+
+ps -ef | grep java | grep -v grep | awk '{print $(NF-2),$(NF-1),$NF}' | grep -v ibm-ucd | grep -v "profiles.active">WEBLIST.txt
+ps -fu root | grep -i ihs | awk '{print $NF}' | sort | uniq | grep -v start >>WEBLIST.txt
+ps -fu root | grep -i ihs | awk '{print $(NF-2)}' | sort | uniq | grep -v start>>WEBLIST.txt
+
+
+-----------------------
+for base java install
+/imcl install com.ibm.websphere.IBMJAVA.v80_8.0.3020.20161124_1304 -installationDirectory /apps/WebSphere/AppServer-8.5 -repositories /logs/Patches/Java8 -sp -log /apps/JDK.log
+
+
+/apps/WebSphere/AppServer-8.5/bin/managesdk.sh -enableProfile -profileName UNManagedENG00009-sdkname 1.8_64_bundled
+
+./imcl uninstall com.ibm.websphere.IBMJAVA.v70
+  -installationDirectory installation_directory
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstallAll -installationDirectory /apps/WebSphere/AppServer-8.5_POC -sP
+
+
+
+----------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPI96287 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/wasfix/IFPI96287 -sP
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstall 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPI84261 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPI96286 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/wasfix/IFPI96286 -sP
+
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.5.5.12-WS-WASProd-IFPI85892 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/wasfix/ifpi85892 -sP
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl install 8.5.5.9-WS-WAS-IFPI73197 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -repositories /workfs/wasfix/ifpi73197 -sP
+
+
+
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstall com.ibm.websphere.IBMJAVA.v70 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstall 8.5.0.0-WS-WASJavaSDK-AixPPC64-IFPI84266_8.5.0.20170815_0839 -installationDirectory /apps/WebSphere/AppServer-8.5_CO -sP
+/apps/WebSphere/InstallationManager/eclipse/tools/imcl uninstall 8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPI96287 -installationDirectory /apps/WebSphere/AppServer-8.5_CBO2 -sP
+
+
+
+
+
+8.5.5.11-WS-WASBundledSDK8-AixPPC64-IFPI96287
+8.5.0.0-WS-WASJavaSDK-AixPPC64-IFPI84266_8.5.0.20170815_0839
+
+
+
+https://www.kickresume.com/en/help-center/student-physics-resume-sample/
+
+
+
+[1:12 AM] Robert Sauer
+Projects Assignee list
+----------------------
+Identify the prod server not configured with ITCAM ,Install/configure  ITCAM aon c2c prod server- Satheeshkumar
+Decommission wu4/wua and respective Dr servers , migrating application from wu4A to c2c. Karthikeyan kanniappan
+Automation Fixpack upgrade on ucd Narendra
+Scheduled deployment on UCD and implement on all servers we support  Narendra
+Fixpack upgrade on c2c --satisha,peru
+Fixpack upgrade on AIX dedicated servers - Prasanth
+Application  sheet - grouping c2c,AIX server  application wise, enable globasl security with AD on C2C -  Romy
+SSL expiration on webserver  Vineel
+Fix restart script/RAPS log rotation on c2c-- Ayushi
+
+    Base,basebsorws,sbtbasews
+    hrlos  
+    NPS,NPSWS
+    KPVINE
+    NMC
+pzxdap141.pldc.kp.org    172.17.25.53
+pzxdap142.pldc.kp.org    172.17.25.54
+pzxdap143.pldc.kp.org    172.17.25.55
+ root/ VMware1!
+@IBMhat
+
+
+./manageprofiles.sh -create -profileName Dmgr03 -profilePath /opt/IBM/WebSphere/AppServer-9.0/profiles/Dmgr03 -templatePath /opt/IBM/WebSphere/AppServer-9.0/profileTemplates/dmgr -hostName pzxdap142.pldc.kp.org -cellName wzxsvmDmgrCell03 -nodeName pzxdapDmgrNode03 -startingPort 10000
+
+./manageprofiles.sh -create -profileName AppSrv05 -profilePath /opt/IBM/WebSphere/AppServer-9.0/profiles/AppSrv05 -templatePath /opt/IBM/WebSphere/AppServer-9.0/profileTemplates/default -hostName pzxdap141.pldc.kp.org   -nodeName pzxdapAppNode05 -startingPort 20200
+
+./manageprofiles.sh -create -profileName AppSrv06 -profilePath /opt/IBM/WebSphere/AppServer-9.0/profiles/AppSrv06 -templatePath /opt/IBM/WebSphere/AppServer-9.0/profileTemplates/default -hostName pzxdap143.pldc.kp.org   -nodeName pzxdapAppNode06 -startingPort 20200
+
+ansible
+-----
+ansible-valult edit passwd.yml - to edit
+ansible-valult view passwd.yml - to view
+ansible-valult create passwd.yml - to create
+-------
+Ansible- AdHoc commandsimcl
+
+
+ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m command -a "uptime"
+
+--------
+200  ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m command -a "uptime"
+  201  ls
+  202  vi test.sh
+  203  ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m script -a "test.sh"
+  204  vim test.sh 
+  205  ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m script -a "test.sh"
+  206  vim test1.sh
+  207  ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m script -a "test1.sh"
+  208  vim test1.sh
+  209  ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m script -a "test1.sh"
+  210  which pbrun
+  211  vim test1.sh
+  212  ansible  genf --extra-vars='ansible_ssh_user=m554538a' --extra-vars 'ansible_ssh_pass=q_6.bYHk' -m script -a "test1.sh" -K
+
+
+ps -ef | grep java | grep -v grep | awk '{print $(NF-2),$(NF-1),$NF}' | grep -v ibm-ucd | grep -v "profiles.active">>WEBLIST.txt
+ps -fu root | grep -i ihs | awk '{print $NF}' | sort | uniq | grep -v start >>WEBLIST.txt
+ps -fu root | grep -i ihs | awk '{print $(NF-2)}' | sort | uniq | grep -v start>>WEBLIST.txt
+
+LAB Servers
+---------------
+pzxdap141.pldc.kp.org    172.17.25.53
+pzxdap142.pldc.kp.org    172.17.25.54
+pzxdap143.pldc.kp.org    172.17.25.55
+pzxdap144.pldc.kp.org    172.17.25.56
+root/ VMware1!
+
+
+NPS Bring down(order)
+
+Cluster:
+
+NPSIKPRRS_cluster
+NPSIBETS_cluster 
+NPSICM_cluster  
+NPSIFS_cluster   
+NPSISPAS_cluster 
+NPSIEMS_cluster  
+NPSRUW_cluster   
+NPSRERA_Cluster 
+NPSIROUTER_cluster
+JMS 
+
+------------------------------------
+
+
+ps -ef | grep java | grep -v grep | awk '{print $(NF-2),$(NF-1),$NF}' | grep -v ibm-ucd | grep -v "profiles.active"
+ps -fu root | grep -i ihs | awk '{print $NF}' | sort | uniq | grep -v start
+ps -fu root | grep -i ihs | awk '{print $(NF-2)}' | sort | uniq | grep -v start
+
+_
+Host Name: dzc2cxp00000312.kp-dmz.org
+Host Name: dzc2cxp00000313.kp-dmz.org
+
+Host Name: dzc2cxp00000319.kp-dmz.org
+Host Name: dzc2cxp00000318.kp-dmz.org
+
+
+wu4A contact list 
+----------------------
+SPAS
+Albert S Kuo <Albert.S.Kuo@kp.org>; Madhuri Kulkarni <Madhuri.Kulkarni@kp.org>; Giancarlo F Berner <Giancarlo.F.Berner@kp.org>; Jaime E Castaneda <Jaime.E.Castaneda@kp.org>; Aritra Bose <Aritra.Bose@kp.org>; Rajitha Pothu <Rajitha.Pothu@kp.org>; Satheeshkumar Venkatachalam <satheeshkumar.venkatachalam@kp.org>; Vijaya Mallineni? <Vijaya.Mallineni@kp.org>; Sovanlal Guchhait <Sovanlal.X.Guchhait@kp.org>; Subramani Annadurai <subramani.annadurai@kp.org>,gokilavani.mohandoss@accenture.com, pradeep.tt@accenture.com, Mahesh.T.Reddy <mahesh.t.reddy@kp.org>, Anand.Swaminathan <anand.swaminathan@kp.org>, prasannavenkates.vasudevan <prasannavenkates.vasudevan@kp.org>, Deepak.Raj.Parasuramanthankam@kp.org <deepak.raj.parasuramanthankam@kp.org>, Premkumar.T.Ramamoorthy@kp.org <premkumar.t.ramamoorthy@kp.org>, alex.x.dmitrishin@kp.org, Jose-Nicolas.Duenas-Preciado@kp.org <jose-nicolas.duenas-preciado@kp.org>, Diljitha.Prasad@kp.org <diljitha.prasad@kp.org>, scal-asg-javasupportteam@kp.org, satheeshkumar.venkatachalam@kp.org, subramani.annadurai <subramani.annadurai@kp.org>, karthi.ayyasami@kp.org, Vijaya.Mallineni@kp.org <vijaya.mallineni@kp.org>, Sovanlal.X.Guchhait@kp.org <sovanlal.x.guchhait@kp.org>, Jaime.E.Castaneda <jaime.e.castaneda@kp.org>, ramin.mahmoodi@kp.org, Venkatesh.X.Chandran@kp.org <venkatesh.x.chandran@kp.org>, Ted.Seifert@kp.org <ted.seifert@kp.org>, Zavier.Padayatty@kp.org <zavier.padayatty@kp.org>, jayaraj.anandakrishnan@kp.org, narsimha.ganta@kp.org, Cyrus.Soleimany@kp.org <cyrus.soleimany@kp.org>, Don.Edgecomb@kp.org <don.edgecomb@kp.org>, stephen.x.schanner@kp.org, Kenneth.Khoo@kp.org <kenneth.khoo@kp.org>, Tyson.A.Black@kp.org <tyson.a.black@kp.org>,  Norberto.Rodriguez@kp.org <norberto.rodriguez@kp.org>, Sherry.X.Saini@kp.org <sherry.x.saini@kp.org>, Raveendar R Ramasani <rramasani@in.ibm.com>,Bangaruraju.Gandreddi@kp.org,Shakthibharathi.M@kp.org,shanmuga-priya.subramaniam@kp.org,Aravind.Prasanna-Rajendran@kp.org
+ 
+
+Bangaruraju.Gandreddi@kp.org,Shakthibharathi.M@kp.org,Aravind.Prasanna-Rajendran@kp.org
+
+Shakthibharathi.M@kp.org -NMC,SPAS
+shanmuga-priya.subramaniam@kp.org NPS
+Aravind.Prasanna-Rajendran@kp.org base
+Bangaruraju.Gandreddi@kp.org  HRLOS
+
+We are  announcing  that KP is ending support for applications using IBM WebSphere Application Server and IBMHTTPServer on wu4A environment from Q2 2020. The end of support date is coming up fast. If you haven’t prepared for the change yet, it’s important to act quickly and take steps to ensure your applications, and in turn, your business processes are fully migrated from Wu4A to C2C Servers or decommisioned from Wu4A. Please let us know your migration/decommiosn plan.Please let us know if you need any help on migration.
+Please check the middleware page for more information
+https://kp.service-now.com/sp?id=kb_article&sys_id=998115fedbbe3b4002116ce2ca96190d
+https://ihq.kp.org/application-hosting/middleware/
+https://kp.service-now.com/sp?id=kb_article&sys_id=efe2832cdbfdbb0c611f001b8a961943
+
+
+
+ gokilavani.mohandoss@accenture.com, pradeep.tt@accenture.com, swetha.premkumar@kp.org, Mahesh.T.Reddy <mahesh.t.reddy@kp.org>, Anand.Swaminathan <anand.swaminathan@kp.org>, prasannavenkates.vasudevan <prasannavenkates.vasudevan@kp.org>, Deepak.Raj.Parasuramanthankam@kp.org <deepak.raj.parasuramanthankam@kp.org>, Premkumar.T.Ramamoorthy@kp.org <premkumar.t.ramamoorthy@kp.org>,  alex.x.dmitrishin@kp.org, Jose-Nicolas.Duenas-Preciado@kp.org <jose-nicolas.duenas-preciado@kp.org>, Mohiadeen.Ameer@kp.org <mohiadeen.ameer@kp.org>, Diljitha.Prasad@kp.org <diljitha.prasad@kp.org>, scal-asg-javasupportteam@kp.org, satheeshkumar.venkatachalam@kp.org, subramani.annadurai <subramani.annadurai@kp.org>, karthi.ayyasami@kp.org, Vijaya.Mallineni@kp.org <vijaya.mallineni@kp.org>, Sovanlal.X.Guchhait@kp.org <sovanlal.x.guchhait@kp.org>, Jaime.E.Castaneda <jaime.e.castaneda@kp.org>, ramin.mahmoodi@kp.org, Venkatesh.X.Chandran@kp.org <venkatesh.x.chandran@kp.org>, Ted.Seifert@kp.org <ted.seifert@kp.org>, Zavier.Padayatty@kp.org <zavier.padayatty@kp.org>, jayaraj.anandakrishnan@kp.org,  Sreeguruparan.P.Appachi@kp.org <sreeguruparan.p.appachi@kp.org>,  Raveendar R Ramasani <rramasani@in.ibm.com>, Venkateswarlu Madala <vemadal1@in.ibm.com>
+
+Achivements
+
+CPM Completed build and migrated to WAS 9.x - aplication enhancement
+SPIMS Completed  UAT and prod build and migration - application enhancement
+implemented TLSv1 and TLSv1.1 for RACSEM application in Liberty. Security & TRO
+completed configuration for NPS Non-PROD environment (UAT) of P7 to P8 Migration
+migration completed for SCE environment of NPS application Non-PROD. ---Migration & Enhancement
+Implemented  the mitigation solution for log4j issue on affected supported websphere servers       Security TRO
+for log4j issue, fixpack upgraded in WAS / IHS to 8.5.5.20 on supported server
+Kpaths Prod Pool1 & Pool2 build and Validation completed
+Kpaths ACR Pool2 build and Validation Completd
+kpatha corona & Napa pool3 build and Validation completed
+
+
+IBM airtell conference
+---------------------------
+1800 102 2222 / 044442222  passcode # 8075096#  
+
+grep -i svc /apps/WebSphere/AppServer-8.5/profiles/Managed*/config/cells/ndm*/security.xml | sed -n 's/.* bindDN\([^ ]*\).*/\1/p'  | cut -d"=" -f3| cut -d"," -f1
+-------------------------
+
+IBM Blue diamond
+sftp pooj123@msciftpgw.im-ies.ibm.com  
+2020_Mnbvcxz@123 
+
+
+
+SPIMS 
+UAT
+ https://cskpcloudxn1364.cloud.kp.org:11001/ibm/console 
+QA/Dev
+https://cskpcloudxn1364.cloud.kp.org:10001/ibm/console
+Prod
+http://cskpcloudxp1218.cloud.kp.org:10000/ibm/console/login.do
+
+AdminServerManagement.configureServerLogs(myNode, myServer, /temp/mylog,[["formatWrites", "true"], ["messageFormatKind", "BASIC"], ["rolloverType", "BOTH"]])
+
+ {baseHour 24}
+{fileName ${SERVER_LOG_ROOT}/SystemOut.log}
+{formatWrites true}
+{maxNumberOfBackupFiles 1}
+{messageFormatKind BASIC}
+{rolloverPeriod 24}
+{rolloverSize 1}
+{rolloverType SIZE}
+{suppressStackTrace false}
+{suppressWrites false}
+
+
+AdminConfig.list('Property', '(cells/ndmKpathsWSProd/nodes/nzapwai16/servers/P1_R3_kp_org_BookingService_2|server.xml#JavaVirtualMachine_1546450267099)') 
+
+ AdminTask.setJVMSystemProperties('[-serverName server1 -nodeName Node01 -propertyName shen.test.property -propertyValue true]')
+ AdminConfig.save()   
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_BookingService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+ AdminConfig.save() 
+
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_BookingService_3 -nodeName nzapwai15 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_BookingService_4 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_KPATHSService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_KPATHSService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]') 
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_KPATHSService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_KPATHSService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_BookingService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_BookingService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+AdminTask.setJVMSystemProperties('[-serverName P1_R3_kp_org_BookingService_2 -nodeName nzapwai16 -propertyName ServerRequestTimeout -propertyValue 45]')
+
+AdminServerManagement.configureServerLogs(myNode, myServer, /temp/mylog,[["formatWrites", "true"], ["messageFormatKind", "BASIC"], ["rolloverType", "BOTH"]])
+
+Account ID 	Work item ID 	Work item description
+W6P1V 	W1MIDPAT 	Middleware Patching
+W6P1V 	W4MIDRSS 	Middleware Steady State
+W6P1V 	WAPRJMID 	Proj & Prog Mgmt Middleware
+W6P1V 	W1MIDENG 	Middleware Engineering
+W6P1V 	W1CURMID 	Middleware Currency
+W6P1V 	WADAMIDD 	Middleware Delivery Analyst
+W6P1V 	W2PCMMID 	Middleware PCM
+W6P1V 	W1AUTMID 	Middleware Automation
+W6P1V 	W1MIDBIG 	Middleware Bigfix Activity
+
+./imcl rollback com.ibm.websphere.ND.v85_8.5.5015.20190128_1828 -installationDirectory /opt/IBM/WebSphere/AppServer-8.5 -repositories /mnt/rafw_media/WAS85/rafw_media/all/FP15/8.5.5-WS-WAS-FP015 -acceptLicense -sP
+
+./imcl rollback com.ibm.websphere.ND.v85_8.5.5000.20130514_1044 -installationDirectory /apps/WebSphere/AppServer-8.5 -acceptLicense -sP
+
+./wsadmin.sh wasadm wasadm -f /apps/WebSphere/AppServer-8.5/bin/configureWebserverDefinition.jacl webserver IHS '/apps/IBMIHS/
+IBMIHS-8.5' '/apps/IBMIHS/IBMIHS-8.5/conf/httpd.conf' 1080 NO '/apps/WebSphere/Plugins-8.5' unmanaged pzadwai3_IHS01  pzadwai3.pldc.kp.org aix 8008  wasadm $IHS_ADMIN_----_PARAMETER
+
+./wsadmin.sh -f /apps/WebSphere/AppServer-8.5/bin/configureWebserverDefinition.jacl webserver IHS '/apps/IBMIHS/
+IBMIHS-8.5' '/apps/IBMIHS/IBMIHS-8.5/conf/httpd.conf' 1080 NO '/apps/WebSphere/Plugins-8.5' unmanaged pzadwai3_IHS01  pzadwai3.pldc.kp.org aix 8008  wasadm wasadm
+
+UCD
+-----
+https://rational.kp.org/ram/oslc/assets/8E3BD117-1070-E1FD-25C6-18A75728B5C7/1.0
+https://rational.kp.org/ram/assetDetail/content.faces?guid=49035851-33E9-79E4-F447-FBE8C3B849FD&v=1.0
+https://rational.kp.org/ram/artifact/DC495EC1-B8A9-C369-4743-5201EC1AFFC4/1.0/UCDLoging.docx
+https://rational.kp.org/ram/artifact/6D888837-D72D-6A6C-9EC2-F35E208544FF/1.0/setting-up-resourcetree-with-ibmwebso.mp4
+https://rational.kp.org/ram/artifact/AB384992-D450-D0DD-1739-564DCE691717/1.0/UCDTrainingFromESE.docx
+
+
+
+
+Transition Phase; (Engineering and Steady State Teams for remediation to design)
+
+a) an overview of the tasks you will perform in support of this phase
+Due-deligence
+get access to the server
+validate the access
+validate Design documents,Architectural diagrams, application data sheet or similar &  Customer contact information
+	Enable global security if not enabled
+	migrate to KP-AD account if enabled already
+         
+        
+
+
+       
+b) labor estimate in hours to perform the above-defined tasks given the design points and assumptions in the Requirements Document as well as your new assumptions
+As we have very less information about middleware, The give numbers applicable for 1 middleware websphere application server
+8 hours 
+unmanaged
+
+c) all additional Assumptions detailed out on how the labor estimate is factored. (such as exactly what and what not be provided by your team)
+
+d) all additional Dependancies we have on KP/KPWA to deliver prior to your team completing the transition
+
+e) all additional Risks/Constraints for the given solution/labor estimate we have on KP/KPWA to deliver prior to you completing the transition
+
+
+wasadm@czapwai11 /workfs/webgate11g/25297896 > 
+/apps/IBMIHS/WebGate11g/OPatch/opatch apply
+download binary from qadrop
+location /workfs/Software/webgate/webgate11g/AIX 
+-rwxr-xr-x    1 O550071  pbwebis   333297090 Mar 19 09:33 ofm_webgates_ihs8_generic_11.1.2.2.0_disk1_1of1.zip
+-rwxr-xr-x    1 O550071  pbwebis     6036692 Mar 19 09:33 p25297896_111220_AIX64-5L.zip
+
+download both the file to the target server at /workfs/webgate11g
+
+unzip the file 
+use JAR utility to unzip the file if we do  not have tool to unzip on AIX servers
+unzip binary
+/apps/WebSphere/AppServer-8.5/java/bin/jar -xvf ofm_webgates_ihs8_generic_11.1.2.2.0_disk1_1of1.zip
+unzip webgate patch
+/apps/WebSphere/AppServer-8.5/java/bin/jar -xvf p25297896_111220_AIX64-5L.zip
+
+cd to Disk1
+create a new file silent.rsp
+
+mkdir silent.rsp
+Edit the file and add the foillowing
+
+[ENGINE]
+VERSION=1.0.0.0.0
+[GENERIC]
+ORACLE_HOME=/apps/IBMIHS/WebGate11g
+CONFIG_WIZARD_RESPONSE_FILE_LOCATION=0
+ORACLE HOME FREE SPEACE=0
+SKIP_SOFTWARE_UPDATES=true
+[SYSTEM]
+[APPLICATIONS]
+[RELATIONSHIPS]
+
+save the file 
+using  pbrun create a file "oraInst.loc"  under /etc  and the following and save the file.
+ 
+inventory_loc=/var/opt/oracle/oraInventory
+inst_group=wasadm
+
+
+chnage the permission of the file 
+
+chmod 644 oraInst.loc
+create a new directory  oraInventory under /var/opt/oracle and chnage the ownership to wasadm
+mkdir -p /var/opt/oracle/oraInventory
+chown -R wasadm:wasadm /var/opt/oracle/oraInventory
+chmod -R 755 /var/opt/oracle
+
+change to wasadm userid
+
+pbrun su - wasadm
+change the permission of the directory
+chmod -R 755 /workfs/webgate11g/Disk1
+As wasadm, cd to /workfs/webgate11g/Disk1. Run the following:
+./runInstaller -ignoreSysPrereqs -jreLoc /apps/WebSphere/AppServer-8.5/java/ -invPtrLoc /workfs/Webgate11g/oraInst.loc -silent -response /workfs/Webgate11g/Disk1/silent.rsp
+
+ASG CS ENV SERVICES
+https://kp.service-now.com/nav_to.do?uri=sys_user_grmember.do?sys_id=6fc01220db8d57408b787b6b8c961933
+ 
+$ ./runInstaller -ignoreSysPrereqs -jreLoc /apps/WebSphere/AppServer-8.5/java -invPtrLoc /etc/oraInst.loc -silent -response /workfs/webgate11g/Disk1/silent.rsp  
+
+      
+Starting Oracle Universal Installer...
+
+Checking if CPU speed is above 300 MHz.    Actual 2047 MHz    Passed
+Checking Temp space: must be greater than 150 MB.   Actual 2772 MB    Passed
+Checking swap space: must be greater than 512 MB.   Actual 24576 MB    Passed
+Preparing to launch Oracle Universal Installer from /tmp/OraInstall2018-03-31_02-55-14AM. Please wait ...wasadm@szapwai5 /workfs/webgate11g/Disk1 > 
+$ Log: /var/opt/oracle/oraInventory/logs/install2018-03-31_02-55-14AM.log
+Copyright (c) 1999, 2013, Oracle and/or its affiliates. All rights reserved.
+Reading response file..
+Verifying data......
+Copying Files...
+-----------20%----------40%----------60%----------80%--------100%
+
+The installation of Oracle Webgate IHS 8.X Top Level completed successfully.
+
+check the binary version
+
+/apps/IBMIHS/WebGate11g/OPatch/opatch lsinventory 
+
+
+
+wasadm@szapwai5 /workfs/webgate11g/25297896 > 
+
+$ /apps/IBMIHS/WebGate11g/OPatch/opatch apply
+Oracle Interim Patch Installer version 11.1.0.9.9
+Copyright (c) 2012, Oracle Corporation.  All rights reserved.
+
+
+Oracle Home       : /apps/IBMIHS/WebGate11g
+Central Inventory : /var/opt/oracle/oraInventory
+   from           : /apps/IBMIHS/WebGate11g/oraInst.loc
+OPatch version    : 11.1.0.9.9
+OUI version       : 11.1.0.9.0
+Log file location : /apps/IBMIHS/WebGate11g/cfgtoollogs/opatch/25297896_Apr_05_2018_09_12_40/apply2018-04-05_09-12-40AM_1.log
+
+Applying interim patch '25297896' to OH '/apps/IBMIHS/WebGate11g'
+Verifying environment and performing prerequisite checks...
+All checks passed.
+
+Please shutdown Oracle instances running out of this ORACLE_HOME on the local system.
+(Oracle Home = '/apps/IBMIHS/WebGate11g')
+
+
+Is the local system ready for patching? [y|n]
+y
+User Responded with: Y
+Backing up files...
+
+Patching component oracle.as.oam.webgate.ihs8_aix_ppc64, 11.1.2.2.0...
+
+Verifying the update...
+Patch 25297896 successfully applied
+Log file location: /apps/IBMIHS/WebGate11g/cfgtoollogs/opatch/25297896_Apr_05_2018_09_12_40/apply2018-04-05_09-12-40AM_1.log
+
+OPatch succeeded.
+wasadm@szapwai5 /workfs/webgate11g/25297896 > 
+
+Deploy Webgate 11g instance
+
+cd /apps/IBMIHS/WebGate11g/webgate/ihs/tools/deployWebGate
+ 
+
+Run ./deployWebGateInstance.sh -w /apps/IBMIHS/wg_instance4ihs/ -oh /apps/IBMIHS/WebGate11g/ -ws ihs
+
+
+
+
+
+
+./runInstaller -ignoreSysPrereqs -jreLoc /apps/WebSphere/AppServer/java/jre -invPtrLoc /etc/oraInst.loc -silent  
+
+./runInstaller -ignoreSysPrereqs -jreLoc /apps/WebSphere/AppServer-8.5/java/jre -invPtrLoc /etc/oraInst.loc -silent -response /workfs/webgate/Disk1/silent.rsp 
+-
+response /workfs/webgate/11g/Disk1/silent.rsp
+
+
+
+xnzauwa10x.nndc.kp.org
+xnzauwa11x.nndc.kp.org
+xnzauwa9x.nndc.kp.org
+xnzaudb9x.nndc.kp.org
+
+PROD Environment BASE Server (xczapie24bx & xczapie25bx)
+UAT/WIT and ST servers
+
+UAT/WIT Server:
+xczauwa5x.crdc.kp.org
+xczauwa6x.crdc.kp.org
+xczaudb3x.crdc.kp.org
+xczaudb4x.crdc.kp.org
+
+
+ST servers:
+xnzardb1x.nndc.kp.org
+xnzadwa3x.nndc.kp.org
+xnzadwa5x.nndc.kp.org
+
+
+./wsadmin.sh -conntype NONE -lang jython
+
+AdminTask.changeHostName('[-nodeName xnzadwa5xDMGR -hostName nzadwa5.nndc.kp.org]') 
+AdminTask.changeHostName('[-nodeName xnzadwa5xApp -hostName nzadwa5.nndc.kp.org]')
+
+AdminTask.changeHostName('[-nodeName xnzadwa3xApp -hostName nzadwa3.nndc.kp.org]')
+
+
+NPS BIND userid/passwd
+----------------
+svcbindNPSDev : qEpub2!suWRuvusA
+
+svcbindNPSQA : 3acuprAQab!a!pa$
+
+svcbindNPSUAT : cuxE2rax6p&&sev*
+
+svcbindNPSProd : sWE75gAHuD_dA?Uy
+
+
+/apps/WebSphere/AppServer-8.5/bin/PropFile----Encoder.sh /apps/WebSphere/AppServer-8.5/profiles/ndmNPSPT01/properties/soap.client.props  com.ibm.SOAP.login----
+/apps/websphere/AT_WAS8.5/profiles/NewArapahodmgrProfile/bin/PropFile----Encoder.sh /apps/websphere/AT_WAS8.5/profiles/NewArapahodmgrProfile/properties/soap.client.props  com.ibm.SOAP.login----
+
+##########Jython simple script to change the hostname
+
+cd /opt/IBM/WebSphere/AppServer/profiles/Dmgr01/bin
+
+kill the jvm first
+
+######login to the wsadmin script
+
+./wsadmin.sh —press enter
+
+wsadmin -lang jython
+
+###BElow line will diplay all the serverIndex.xml files
+
+
+./wsadmin.sh -conntype NONE -lang jython
+
+AdminConfig.list('ServerIndex')
+
+###Below command will modify the hostname as per the requirement
+
+AdminConfig.modify(‘(cells/<cellname>/nodes/<nodename>|serverindex.xml#ServerIndex_1)’, “[[hostName <new_host_name>]]”)
+
+AdminConfig.modify('(cells/<ndmPT>/nodes/<nodename>|serverindex.xml#ServerIndex_1)', “[[hostName nzauwa10.nndc.kp.org]]”)
+AdminConfig.modify('(cells/ndmPT/nodes/xnzauwa10xApp01|serverindex.xml#ServerIndex_1)', '[[hostName nzauwa10.nndc.kp.org]]') 
+
+##Below line will dispaly the new hostname
+
+AdminConfig.show('(cells/ndmPT/nodes/xnzauwa10xApp01|serverindex.xml#ServerIndex_1e)')
+
+###Belwo command will save the configuration
+
+AdminConfig.save( )
+
+
+svcwasgs/dreS5usp
+
+AdminTask.changeHostName('-nodeName xnzauwa10xDMGR -hostName nzauwa10.nndc.kp.org')
+Using netstat to determine the time_wait values
+======================================
+netstat -na | grep -i time_wait | grep -c 9080
+Find the  JVM running
+================
+ps -ef | grep java | grep -v grep | awk '{print $(NF-2),$(NF-1),$NF}' | grep -v ibm-ucd | grep -v "profiles.active"
+largest file in a filesystem
+==============================
+
+du -a . | sort -n -r | head -n 5
+
+PATH=/usr/bin:/etc:/usr/sbin:/usr/ucb:$HOME/bin:/usr/bin/X11:/sbin:
+
+wasadm id=411682 pgrp=wasadm groups=wasadm,pdwreslt home=/home/wasadm shell=/usr/bin/ksh gecos=wasadm,generic,K743388,WO0000009607596 roles=
+
+wasadm id=411682 pgrp=wasadm groups=wasadm,pdwreslt home=/home/wasadm shell=/usr/bin/ksh gecos=wasadm,generic,K743388,WO0000009607596
+172.30.188.68
+
+perl -pi -e 's/01909/01910/g' *10.sh
+perl -pi -e 's/01909/01911/g' *11.sh
+
+perl -pi -e 's/nobody/wasadm/g' h*.conf
+perl -i -ne'print unless /StartServers/ and /6/;' htt*p*conf
+perl -i -ne'print unless /MinSpareThreads/ and /100/;' htt*p*conf
+perl -i -ne'print unless /MaxSpareThreads/ and /100/;' htt*p*conf
+perl -i -ne'print unless /MaxClients/ and /1600/;' htt*p*conf
+perl -i -ne'print unless /MaxRequestsPerChild/ and /0/;' htt*p*conf
+perl -i -ne'print unless /MinSpareThreads/ and /100/;' htt*p*conf
+perl -i -ne'print unless /ThreadsPerChild/ and /100/;' htt*p*conf
+perl -i -ne'print unless /ServerLimit/ and /20/;' htt*p*conf
+
+
+scp htt*.conf m554538a@172.16.157.142:/tmp/ihs
+
+scp m554538a@172.16.157.142:/tmp/ihs/* .
+
+sed '/worker/r add.txt' htt*p2*conf>tmp.$$
+
+sed -i '/worker/r add.txt' *.conf 
+
+./apps/IBMIHS/IBMIHS-8.5/bin/apachectl -f /apps/conf/httpd-p1_facinfo.conf -t
+
+perl -i.bak -ne'print unless /Alias/ and /icons/;' httpd-p1_messaging.conf
+
+perl -i -ne 'next if m,^Alias /icons/,; print' one.txt
+
+perl -i -e 'StartServers/d/' httpd-p2_booking.conf
+
+
+Status : New Passcode 61301270 sent by GVI Provising Teamjj
+IBM Team meeting
+18001022222 or 04444442222
+8075096  
+
+
+./htpasswd  -b ../conf/admin.passwd wasadm wasadm
+
+
+###########################################
+
+# =====startUp scripts==== ManagedKpathsProdP1 ===
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP1/bin/startNode.sh"
+
+sleep 180
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP1/bin/wsadmin.sh -language jython -f /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP1/bin/startUp_allJvms.py"
+
+######
+
+# =====startUp scripts==== ManagedKpathsProdP2 ===
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP2/bin/startNode.sh"
+
+sleep 180
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP2/bin/wsadmin.sh -language jython -f /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP2/bin/startUp_allJvms.py"
+
+######
+
+=======================================================================================
+#!/bin/sh
+#
+
+###########################################
+
+# =====shutdown scripts====ManagedKpathsProdP1===
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP1/bin/stopNode.sh"
+
+sleep 180
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP1/bin/wsadmin.sh -language jython -f /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP1/bin/stop_allJvms.py"
+
+######
+# =====shutdown scripts====ManagedKpathsProdP2===
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP2/bin/stopNode.sh"
+
+sleep 180
+
+su - wasadm -c "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP2/bin/wsadmin.sh -language jython -f /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsProdP2/bin/stop_allJvms.py"
+
+###### 
+
+
+
+for i in `cat hostfile`;do scp -r cron/* m554538a@$i:/tmp/;done
+
+
+perl -pi -e 's/db2inst1/db2inst2/g' *
+
+perl -pi -e 's/nzapwai4/$HOS/g' *
+
+
+perl -pi -e 's/172.16.12.80/172.16.12.78/g' *
+
+
+
+
+KPATH SVC account
+==================
+svcbindKPATHDEV  q59K6gyH
+
+svcbindKPATHQA  PUMy316c
+
+svcbindKPATHUAT  zPxkBQ81
+
+svcbindKPATHPROD  V08zfR3v
+
+
+
+
+
+sed -i 's/^ServerName.*/ServerName pzadwai2.pldc.kp.org/' /apps/conf/httpd-p2_booking.conf.bak
+
+sed -i 's/^acl verizonfios.*/acl verizonfios src 202.1.2.3/' /etc/squid/squid.conf
+
+
+perl -pi -e 's/ServerName.*/ServerName pzadwai1.pldc.kp.org/g' *
+
+-------
+ssh root@your.server.at.cloud sed -i 's/^acl verizonfios.*/acl verizonfios src 202.1.2.3/' /etc/squid/squid.conf
+ssh root@your.server.at.cloud /usr/sbin/squid -k reconfigure
+
+
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName BOOKING_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+
+First member creation using template name:
+
+AdminTask.createClusterMember('[-clusterName BOOKING_cluster -memberConfig [-memberNode czapwai6 -memberName BOOKING_1 -genUniquePorts true -replicatorEntry false] -firstMember [-templateName serverTemplateName]]')
+AdminTask.createClusterMember('[-clusterName BOOKING_cluster -memberConfig [-memberNode czapwai6 -memberName BOOKING_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName BOOKING_cluster -memberConfig [-memberNode czapwai7 -memberName BOOKING_2 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName BOOKING_cluster -memberConfig [-memberNode czapwai6 -memberName BOOKING_3 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName BOOKING_cluster -memberConfig [-memberNode czapwai7 -memberName BOOKING_4 -genUniquePorts true -replicatorEntry false]]')
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName CDI_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName CDI_cluster -memberConfig [-memberNode czapwai6 -memberName CDI_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName CDI_cluster -memberConfig [-memberNode czapwai7 -memberName CDI_2 -genUniquePorts true -replicatorEntry false]]')
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName DEMOGRAPHICS_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName DEMOGRAPHICS_cluster -memberConfig [-memberNode czapwai6 -memberName DEMOGRAPHICS_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName DEMOGRAPHICS_cluster -memberConfig [-memberNode czapwai7 -memberName DEMOGRAPHICS_2 -genUniquePorts true -replicatorEntry false]]')
+
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName FACINFO_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName FACINFO_cluster -memberConfig [-memberNode czapwai6 -memberName FACINFO_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName FACINFO_cluster -memberConfig [-memberNode czapwai7 -memberName FACINFO_2 -genUniquePorts true -replicatorEntry false]]')
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName KPATHS_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName KPATHS_cluster -memberConfig [-memberNode czapwai6 -memberName KPATHS_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName KPATHS_cluster -memberConfig [-memberNode czapwai7 -memberName KPATHS_2 -genUniquePorts true -replicatorEntry false]]')
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName KPPAS_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName KPPAS_cluster -memberConfig [-memberNode czapwai6 -memberName KPPAS_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName KPPAS_cluster -memberConfig [-memberNode czapwai7 -memberName KPPAS_2 -genUniquePorts true -replicatorEntry false]]')
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName MESSAGING_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName MESSAGING_cluster -memberConfig [-memberNode czapwai6 -memberName MESSAGING_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName MESSAGING_cluster -memberConfig [-memberNode czapwai7 -memberName MESSAGING_2 -genUniquePorts true -replicatorEntry false]]')
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName PROVIDER_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName PROVIDER_cluster -memberConfig [-memberNode czapwai6 -memberName PROVIDER_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName PROVIDER_cluster -memberConfig [-memberNode czapwai7 -memberName PROVIDER_2 -genUniquePorts true -replicatorEntry false]]')
+
+
+AdminTask.createCluster(['-clusterConfig', '[-clusterName CDIS_cluster -preferLocal true -clusterType APPLICATION_SERVER]'])
+AdminTask.createClusterMember('[-clusterName CDIS_cluster -memberConfig [-memberNode czapwai6 -memberName CDIS_1 -genUniquePorts true -replicatorEntry false]]')
+AdminTask.createClusterMember('[-clusterName CDIS_cluster -memberConfig [-memberNode czapwai7 -memberName CDIS_2 -genUniquePorts true -replicatorEntry false]]')
+
+AdminConfig.save()
+
+AdminTask.createApplicationServer('czapwai6',['-name', 'DTDS_1'])
+AdminTask.createApplicationServer('czapwai7',['-name', 'DTDS_2'])
+AdminTask.createApplicationServer('czapwai6',['-name', 'CRYPTO'])
+AdminTask.createApplicationServer('czapwai7',['-name', 'MAINTENANCE'])
+
+
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "CDIS_vh"]]') 
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "BOOKING_vh"]]')
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "CDI_vh"]]')
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "DEMOGRAPHICS_vh"]]')
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "FACINFO_vh"]]')
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "KPATHS_vh"]]')
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "MESSAGING_vh"]]')
+AdminConfig.create('VirtualHost', AdminConfig.getid('/Cell:ndmKpathPilot/'), '[[name "PROVIDER_vh"]]')
+
+
+
+
+AdminTask.createJDBCProvider('[-scope Cluster=KPATHS_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name KPATHS_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=CDIS_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name CDIS_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=BOOKING_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name BOOKING_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=CDI_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name CDI_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=DEMOGRAPHICS_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name DEMOGRAPHICS_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+
+AdminTask.createJDBCProvider('[-scope Cluster=FACINFO_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name FACINFO_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=KPPAS_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name KPPAS_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=MESSAGING_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name MESSAGING_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+AdminTask.createJDBCProvider('[-scope Cluster=PROVIDER_cluster -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "Connection pool data source" -name PROVIDER_DRIVER -description "Oracle JDBC Driver" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]')
+
+AdminTask.createJDBCProvider('[-scope Cell=ndmKpathPilot -databaseType Oracle -providerType "Oracle JDBC Driver" -implementationType "XA data source" -name DTDS_XA_DRIVER -description "Oracle JDBC Driver (XA)" -classpath [/apps/was/sharelib/Oracle/12c/ojdbc7.jar ] -nativePath "" ]') 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+AdminTask.createDatasource('DB2 Universal JDBC Driver Provider(XA) (cells/myCell|resources.xml
+#JDBCProvider_1180501752515)', '[-name 
+"DB2 Universal JDBC Driver XA DataSource 2" -jndiName ds2 -dataStoreHelperClassName 
+com.ibm.websphere.rsadapter.DB2UniversalDataStoreHelper
+ -componentManagedAuthenticationAlias myCellManager01/a1 -xaRecoveryAuthAlias myCellManager01/a1
+ -configureResourceProperties 
+[[databaseName java.lang.String db1] [driverType java.lang.Integer 4] [serverName java.lang.String 
+ dbserver1] [portNumber java.lang.Integer 50000]]]')
+
+
+
+First member creation using server and node for template:
+
+AdminTask.createClusterMember('[-clusterName cluster1 -memberConfig [-memberNode node1 -memberName member1 
+  -genUniquePorts true -replicatorEntry false] -firstMember 
+ [-templateServerNode node1 -templateServerName server1]]')
+
+
+	
+   	
+./manageprofiles.sh -create -profileName NewArapahodmgrProfile -profilePath /apps/WebSphere/AppServer-8.5/profiles/NewArapahodmgrProfile -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName nzadie1.nndc.kp.org -nodeName newarapahoManager -cellName newarapahoNetwork -startingPort 20000
+
+
+./manageprofiles.sh -create  -profileName NewArapahoAppServerProfile -profilePath /apps/WebSphere/AppServer-8.5/profiles/NewArapahoAppServerProfile -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName newarapaho -hostName nzadie1.nndc.kp.org  -cellName newarapahoNetwork -federateLater true -startingPort 20500 
+
+./manageprofiles.sh -create -profileName NPSMITDmgrProfile -profilePath /apps/WebSphere/AppServer-8.5/profiles/NPSMITDmgrProfile -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName nzadwa2.nndc.kp.org -nodeName xnzadwa2xDMGR -cellName ndmMIT -startingPort 20000
+
+
+./manageprofiles.sh -create -profileName ndmKpathPOC -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmKpathPOC -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName pzadwai1.pldc.kp.org -nodeName pzadwai1Manager  -startingPort 30000
+./manageprofiles.sh -create  -profileName  ManagedKpathsPcmP3 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsPcmP3 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzauwai1 -hostName pzauwai1.pldc.kp.org -federateLater true -startingPort 30500
+./manageprofiles.sh -create  -profileName  ManagedKpathsPcmP3 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsPcmP3 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzauwai4 -hostName pzauwai4.pldc.kp.org -federateLater true -startingPort 30500  
+./manageprofiles.sh -create  -profileName  ManagedKpathsPcmP3 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsPcmP3 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzauwai3 -hostName pzauwai3.pldc.kp.org -federateLater true -startingPort 30500 
+./manageprofiles.sh -create  -profileName  ManagedKpathsPcmP3 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsPcmP3 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzauwai2 -hostName pzauwai2.pldc.kp.org -federateLater true -startingPort 30500 
+
+./manageprofiles.sh -create  -profileName ManagedKpathPOC -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathPOC -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzadwai1 -hostName pzadwai1.pldc.kp.org -federateLater true -startingPort 30500 
+
+
+./manageprofiles.sh -create -profileName ndmKpathsPcmP3 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmKpathsPcmP3 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName pzauwai4.pldc.kp.org  -nodeName pzauwai4Manager -cellName ndmKpathsPcmP3 -startingPort 30000
+/apps/WebSphere/AppServer-8.5/manageprofiles.sh –delete –profileName UNManagedENG00008
+
+./manageprofiles.sh -create  -profileName ManagedKpathsTrn -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsTrn -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName szarwai1 -hostName szarwai1.ssdc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+
+./manageprofiles.sh -create  -profileName ManagedKpathsDevP3 -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsDevP3 -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzadapi1 -hostName pzadapi1.pldc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+
+./manageprofiles.sh -create -profileName ndmKpathsTrn -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmKpathsDCE -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName pzarwai1.pldc.kp.org -nodeName pzarwai1Manager -cellName ndmKpathsDCE -startingPort 10000
+
+./manageprofiles.sh -create -profileName ndmKpathsWSDev -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmKpathsWSDev -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName pzadwai9.pldc.kp.org -nodeName pzadwai9Manager -cellName ndmKpathsWSDev -startingPort 10000
+manageprofiles.sh –delete –profileName ndmKpathsWSDev
+./manageprofiles.sh -create  -profileName ManagedKpathsWSDev -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsWSDev -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzadwai9 -hostName pzadwai9.pldc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+
+./manageprofiles.sh -create  -profileName ManagedKpathsWStg -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsWSStg -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzadwai10 -hostName pzadwai10.pldc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+
+./manageprofiles.sh -create  -profileName ManagedKpathsWSDce -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsWSDce -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzadwai11 -hostName pzadwai11.pldc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+
+./manageprofiles.sh -create  -profileName ManagedKpathsWSQA -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsWSQA -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzaqwai1 -hostName pzaqwai1.pldc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+./manageprofiles.sh -create -profileName ndmKpathsWSQA -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmKpathsWSQA -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/dmgr -hostName pzaqwai1.pldc.kp.org -nodeName pzaqwai1Manager -cellName ndmKpathsWSQA -startingPort 10000
+./manageprofiles.sh -create  -profileName ManagedKpathsWSQA -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedKpathsWSQA -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -nodeName pzaqwai2 -hostName pzaqwai2.pldc.kp.org -federateLater true -startingPort 10500 -serverName server_1
+
+
+
+
+
+
+
+
+
+
+Please create AD new group for eConsult2.
+
+Also Please give access to our group (IBMWEBSUPPORT )to update/add/remove the users from the following groups 
+
+eConsult2
+====================
+wasMonPrdeConsult2
+wasMonDeveConsult2
+wasMonQAeConsult2
+wasMonKPHCeConsult2
+
+cskpcloudxp1866.cloud.kp.org
+cskpcloudxp1867.cloud.kp.org
+cskpcloudxp1871.cloud.kp.org
+cskpcloudxp1872.cloud.kp.org
+cskpcloudxp1873.cloud.kp.org
+cskpcloudxp1874.cloud.kp.org
+cskpcloudxp1875.cloud.kp.org
+cskpcloudxn1625.cloud.kp.org 
+cskpcloudxn1626.cloud.kp.org
+
+cskpcloudxn1922.cloud.kp.org
+cskpcloudxn1923.cloud.kp.org
+
+cskpcloudxn1909.cloud.kp.org
+cskpcloudxn1910.cloud.kp.org
+
+cskpcloudxn1913.cloud.kp.org
+cskpcloudxn1914.cloud.kp.org
+	
+cskpcloudxn1905.cloud.kp.org 
+cskpcloudxn1906.cloud.kp.org
+
+cskpcloudxp1776.cloud.kp.org
+
+
+The group names we need are:
+
+eConsult2
+===============================
+wasMonPrdeConsult2(CN=wasMonPrdeConsult2,OU=eConsult2,OU=Groups,OU=WebSphere Enterprise,OU=Enterprise Applications,DC=cs,DC=msds,DC=kp,DC=org@CS.MSDS.KP.ORG:389 )
+
+wasMonDeveConsult2(CN=wasMonDeveConsult2,OU=eConsult2,OU=Groups,OU=WebSphere Enterprise,OU=Enterprise Applications,DC=cs,DC=msds,DC=kp,DC=org@CS.MSDS.KP.ORG:389 )
+
+wasMonQAeConsult2(CN=wasMonQAeConsult2,OU=eConsult2,OU=Groups,OU=WebSphere Enterprise,OU=Enterprise Applications,DC=cs,DC=msds,DC=kp,DC=org@CS.MSDS.KP.ORG:389 )
+
+wasMonKPHCeConsult2(CN=wasMonKPHCeConsult2,OU=eConsult2,OU=Groups,OU=WebSphere Enterprise,OU=Enterprise Applications,DC=cs,DC=msds,DC=kp,DC=org@CS.MSDS.KP.ORG:389 )
+
+These are been submitted on behalf of Karthikeyan X Ramamoorthy for dedicated Websphere environments in KP
+
+
+if you have any questions please contact Perumal: pepancha@in.ibm.com or Venkateswarlu Madala :vemadal1@in.ibm.com
+
+
+
+
+
+
+java -Djavax.net.debug=ssl:handshake -Djavax.net.ssl.trustStore=/tmp/ldap/keystore.jks -Djavax.net.ssl.trustStore----=1nteresT -jar /tmp/ldaptest.jar -u ldaps://cs.msds.kp.org:636 -D "cn=svcbindQAWU4int1,OU=WebSphere Enterprise,OU=Service Accounts,DC=cs,DC=msds,DC=kp,DC=org" -w xxxxxx -f "(saMAccountName=username)" -b "cn=Users,dc=cs,dc=msds,dc=kp,dc=org" > /tmp/ldaptest.output.txt
+
+
+]
+
+"Host/Server: cskpcloudxn1922.cloud.kp.org  IP address: 172.16.157.142
+Host/Server: cskpcloudxn1923.cloud.kp.org  IP address: 172.16.73.135"
+
+java -Djavax.net.ssl.trustStore=/apps/jboss/keys/New_CACerts/keystore.jks -Djavax.net.ssl.trustStore----=1nteresT -jar /tmp/ldap/ldaptest.jar -u ldaps://cs.msds.kp.org:636 -D "cn=svcbindQAWU4int1,OU=WebSphere Enterprise,OU=Service Accounts,DC=cs,DC=msds,DC=kp,DC=org" -w "p4rAB9pRe" -f "(saMAccountName=username)" -b "cn=Users,dc=cs,dc=msds,dc=kp,dc=org"
+qX3(gSFf
+
+
+
+
+tpm.kp.org --> ENgg Standard
+Note: At runtime, the LoadBalanceWeight of each appserver in a cluster are normalized by their highest common factor. For example, 100, 90, 80 have a common factor of 10. So, these configured weights would be divided by 10 at runtime, resulting in actual starting weights of only 10, 9, 8. Setting all clones to the same starting LoadBalanceWeight (for example: 20, 20, 20) will result in an actual starting weight of only 1 for each, because of normalization. So, it is recommended to set the weight of at least one of the clones to be off by a value of 1. For example, if there are 3 clones, you might choose the starting LoadBalanceWeights to be: 20, 20, 19. After normalization the weights will be unchanged.
+
+
+The nuid DN you entered is:
+"CN=Panchavarnam X. Panchavarnam,OU=Managed,OU=Users,OU=WDC,OU=Data Centers,DC=cs,DC=msds,DC=kp,DC=org"
+For m554538
+
+"CN=Panchavarnam X. Panchavarnam,OU=Managed,OU=Users,OU=WDC,OU=Data Centers,DC=cs,DC=msds,DC=kp,DC=org"
+
+For m554538a(A account)
+
+"CN=Perumal Panchavarnam*aibm,OU=Unix,OU=Admins,DC=cs,DC=msds,DC=kp,DC=org"
+
+
+from Mark Brillon (privately): 
+http://cskpcloudxn1961.cloud.kp.org:7080/coregui/login
+from Mark Brillon (privately): 
+Username = rhqadmin
+from Mark Brillon (privately): 
+pw = rhqadminQA
+
+
+s.server.log.dir" path="server.log"/>
+
+
+cs.msds.kp.org/Service Accounts/WebSphere Enterprise/svcbindCPMDEV
+
+[O9]BvDb
+
+
+/WASPreUpgrade.sh /logs/new /apps/WebSphere/AppServer-7.0 -newAdminAgentProfilePath  /apps/WebSphere/AppServer-8.5/managedQA007 
+
+./createRemoteMigrJar.sh -targetDir /logs/new -skipJava
+copy the jar file from (izadwa24) /logs/new to destination directory /logs/new (wzaqwa11)
+go to /logs/new/bin 
+run waspreupgrade from there
+./WASPreUpgrade.sh /logs/backup  /apps/WebSphere/AppServer-7.0 -oldProfile ManagedQA007 -machineChange true 
+
+./imcl install com.ibm.websphere.ND.v85_8.5.0.20120501_1108 -installationDirectory /apps/WebSphere/AppServer-8.5 -sharedResourcesDirectory /apps/WebSphere/IBM/SDP70Shared -repositories /data/appdata/install_image -acceptLicense -sP
+
+./imcl install com.ibm.websphere.IBMJAVA.v70_7.0.1000.20120424_1539 -installationDirectory /apps/WebSphere/AppServer-8.5 -repositories /data/appdata/Java/17 -acceptLicense -sP
+
+
+/WASPreUpgrade.sh /logs/new /apps/WebSphere/AppServer-7.0 -oldProfile ndmQA007 -machineChange true -traceFile trace.txt
+/WASPreUpgrade.sh /logs/new /apps/WebSphere/AppServer-7.0 -oldProfile ManagedQA007 -machineChange true -traceFile trace.txt
+
+
+WASPostUpgrade.sh /logs/new -oldProfile ndmQA007 -profileName ndmQA007 -scriptCompatibility true -backupConfig true  -includeApps true   
+
+./managesdk.sh -enableProfile -profileName ManagedNPSPT01 -sdkname 1.7_64
+
+./managesdk.sh -enableProfile -profileName ndmKpathsWSPCM  -sdkname 1.8_64
+
+./managesdk.sh -enableProfile -profileName ManagedKpathsWSPCM -sdkname 1.8_64
+
+
+
+
+
+
+
+
+ 
+
+https://kpdr.virtual-corp.net/signon.aspx 
+
+./managesdk.sh -enableProfile -profileName ManagedKpathSand2-sdkname 1.8_64_bundled
+
+CustomLog /logs/fep2/fep2.access common
+LogFormat "%h %l %u %t \"%r\" %>s %b" common
+
+find /logs/jboss/jboss-eap-7.0/servers/eConsult -name "server*.*" -mtime +1 -exec mv {} /logs/old_logs \;
+
+find /logs/jboss/jbcs-httpd24-2.4 -name "*log*.*" -mtime +1 -exec mv {} /logs/old_logs \;
+
+
+
+ErrorLog "|/apps/jboss/jbcs-httpd24-2.4/httpd/sbin/rotatelogs -l /logs/jboss/jbcs-httpd24-2.4/error_log.%Y.%m.%d 86400"
+
+ErrorLog /logs/fep2/fep2.error
+
+
+
+
+
+./wsadmin.sh -conntype NONE -lang jython (do not use without conntype)
+
+
+AdminTask.changeHostName ('-nodeName wzatap30Manager46 -hostName pzadwa3.pldc.kp.org')
+
+AdminConfig.save( )
+
+
+
+
+ ./manageprofiles.sh -create -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/management -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmQAkpath01 -hostname izadwa23.ivdc.kp.org -profileName ndmQAkpath01 cellName ndmQAkpath01 -nodeName izadwa23Node
+
+
+ manageprofiles.sh -create -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates\management -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmQATC01 -hostName cskpcloudxn1497.cloud.kp.org -profileName ndmQATC01 -cellName ndmQATC01  -nodeName cskpcloudxn1497 -enableAdminSecurity false
+
+./manageprofiles.sh -create -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/default -profilePath /apps/WebSphere/AppServer-8.5/profiles/ManagedTEST001 -hostName izadwa23.ivdc.kp.org -profileName ManagedTEST001  -nodeName Man_izadwa23
+
+
+./manageprofiles.sh -create -templatePath /apps/WebSphere/AppServer-8.5/profileTemplates/management -profilePath /apps/WebSphere/AppServer-8.5/profiles/ndmTEST001 -hostName izadwa23.ivdc.kp.org -profileName ndmTEST001 -cellName ndmTEST001  -nodeName izadwa23
+
+
+./manageprofiles.sh -create -templatePath /apps/WebSphere/AppServer-7.0/profileTemplates/management -profilePath /apps/WebSphere/AppServer-7.0/profiles/ndmTEST001 -hostName izadwa23.ivdc.kp.org -profileName ndmTEST001 -cellName ndmTEST001  -nodeName izadwa23
+
+
+./manageprofiles.sh -create -templatePath /apps/WebSphere/AppServer-7.0/profileTemplates/default -profilePath /apps/WebSphere/AppServer-7.0/profiles/ManagedTEST001 -hostName izadwa23.ivdc.kp.org -profileName ManagedTEST001  -nodeName Man_izadwa23
+
+------------------------------------------------------------------------------------------------------------------------
+
+/apps/WebSphere/AppServer-8.5./bin/WASPreUpgrade.sh /logs/migration /apps/WebSphere/AppServer-7.0 -oldProfile ndmTEST001
+
+
+/apps/WebSphere/AppServer-8.5./bin/WASPostUpgrade.sh /logs/migration -profileName ndmTEST001 -oldProfile ndmTEST001 -replacePorts FALSE -backupConfig TRUE -includeApps TRUE -scriptCompatibility TRUE -keepDmgrEnabled FALSE 
+
+
+/apps/WebSphere/AppServer-8.5/profiles/ManagedTEST001/bin/WASPreUpgrade.sh /logs/migration/Nodes23/ /apps/WebSphere/AppServer-7.0 -oldProfile ManagedTEST001
+
+/apps/WebSphere/AppServer-8.5./bin/WASPostUpgrade.sh /logs/migration/Node23 -profileName ManagedTEST001 -oldProfile ManagedTEST001 -replacePorts FALSE -backupConfig TRUE -includeApps TRUE -scriptCompatibility TRUE
+
+
+or
+/apps/WebSphere/AppServer-8.5/profiles/ManagedTEST001/bin/WASPreUpgrade.sh /logs/migration/Nodesnew23/ /apps/WebSphere/AppServer-7.0/profiles/ManagedTEST001
+
+/apps/WebSphere/AppServer-8.5./bin/WASPostUpgrade.sh /logs/migration -profileName ndmTEST001 -oldProfile ndmTEST001 -replacePorts FALSE -backupConfig TRUE -includeApps TRUE -scriptCompatibility TRUE -keepDmgrEnabled FALSE
+
+
+/opt/WebSphereV85/profiles/v70tov85dmgr01/bin/backupConfig.sh /mybackupdir/
+v70tov85dmgr01backupMigratedDmgrOnly.zip -username myuser ----- mypass
+
+/install -options /workfs/responsefile.nd.txt -silent
+
+
+
+/apps/WebSphere/AppServer-8.5/ManagedTEST001
+/apps/WebSphere/AppServer-8.5/profiles/ManagedTEST001/bin
+
+
+
+
+
+
+
+
+
+
+
+-adminUserName wasadmin
+-admin---- wasadmin
+
+
+(echo "Please find the output" ;uuencode /tmp/mod_list.html mod_list.html )| mailx -s "IHS DAV Module check report" $id
+
+
+(echo "Please find the output" ;uuencode /tmp/cskpcloudxp1218.cer output.txt ) | mail -s "OutOfMemoryError" pepancha@in.ibm.com
+
+ ;uuencode certificate  /tmp/cskpcloudxp1218.cer )|
+
+
+
+
+
+keytool -import -trustcacerts -alias root -??le Thawte.crt -keystore keystore.jks
+Comodo_Add_Trust_External_CA_Root.crt 
+ COMODO_RSA_Certificate_Authority.crt
+  COMODO_RSA_Organization_Validation_Secure_Server_CA.crt 
+ econsult2-kphc.kp.org.crt 
+ keystore.jks
+
+
+keytool -list -v -keystore keystore.jks
+keytool -list -v -keystore keystore.jks -alias mydomain
+
+keytool -list -v -keystore keystore.jks -alias econsult2-kphc.kp.org
+
+keytool -import -trustcacerts -alias Comodo_Add_Trust_External_CA_Root -file Comodo_Add_Trust_External_CA_Root.crt -keystore keystore.jks
+ keytool -import -trustcacerts -alias COMODO_RSA_Certificate_Authority -file COMODO_RSA_Certificate_Authority.crt -keystore keystore.jks
+keytool -import -trustcacerts -alias COMODO_RSA_Organization_Validation_Secure_Server_CA -file COMODO_RSA_Organization_Validation_Secure_Server_CA.crt -keystore keystore.jks
+keytool -import -trustcacerts -alias econsult2-kphc.kp.org -file econsult2-kphc.kp.org.crt -keystore keystore.jks
+
+
+
+keytool -importkeystore -srckeystore keystore.jks -destkeystore keystore.p12 -deststoretype PKCS12
+
+
+openssl pkcs12 -in keystore.p12  -nodes -nocerts -out server.key
+openssl pkcs12 -in keystore.p12   -nokeys   -out server1.key
+
+
+
+
+https://ucd.kp.org:8443(Prod) - We will use this 
+
+https://ucd-dev.kp.org:7918(Dev) - Application team for development who is part of KP
+
+
+Intake form for new apps/migrations
+-----------------------------------
+http://kpnet.kp.org:81/kpit/areas/img/gateway_intake.htm 
+
+
+
+OPPR Port ---> http://szabap15.ssdc.kp.org:8080/
+
+
+ere is the engineering design document as a reference https://sites.sp.kp.org/teams/sdi/ccs/cmdp/mw/pd/WebSphere_DR/BDC_Design/DR_Engg_Design_ServiceCatalog.pdf?Web=1
+
+
+Please let me know if you have any questions.
+
+
+
+./imcl listAvailablePackages -repositories /data/appdata/Java17
+./imcl listAvailablePackages -repositories /data/appdata/was855_fp11_PI80733
+
+
+Login to HPCHATS console using https://nzapwa33.nndc.kp.org:50001/ibm/console/
+wasadm / 4prodUSE4
+
+
+(echo "Please find the output" ;uuencode output.html output.html )| mailx -s "Cert check report" pepancha@in.ibm.com,muralibabu@in.ibm.com
+
+(echo "Please find the output" ;uuencode certificate  /tmp/cskpcloudxp1218.cer )| mailx -s "Cert check report" pepancha@in.ibm.com
+c
+
+imcl listAvailablePackages -repositsvcBindDevWUories /apps/WebSphere/libbin/FP
+
+com.ibm.websphere.liberty.IBMJAVA.v70_7.0.4001.20130510_2103
+
+com.ibm.websphere.liberty.ND.v85_8.5.5008.20151201_2010
+        
+[izadwa23][/apps/WebSphere/InstallationManager_Group/eclipse/tools]> ./imcl listAvailablePackages -repositories /logs/Patches/8.0.0.0-WS-WASJavaSDK8-AixPPC64-IFPH24910
+com.ibm.websphere.liberty.IBMJAVA.v70_7.0.4001.20130510_2103
+imcl
+
+com.ibm.websphere.liberty.ND.v85_8.5.5008.20151201_2010
+
+
+
+
+
+
+./imcl install com.ibm.websphere.liberty.IBMJAVA.v70_7.0.4001.20130510_2103 -repositories /apps/WebSphere/libbin/JAVA -installationDirectory /apps/WebSphere/AppServer8.5-libertyA -acceptLicense -showProgress
+
+./imcl install  com.ibm.websphere.liberty.ND.v85_8.5.5008.20151201_2010 -repositories /apps/WebSphere/libbin/FP -installationDirectory /apps/WebSphere/AppServer8.5-liberty -acceptLicense -showProgress
+
+./imcl install com.ibm.websphere.liberty.ND.v85_8.5.5008.20151201_2010 -repositories /apps/WebSphere/libbin -installationDirectory /apps/WebSphere/AppServer8.5-libertyA -acceptLicense -showProgress
+
+./imcl install com.ibm.websphere.ND.v85  -repositories /apps/WebSphere/WAS8.5/rafw_media/aix/PPC64/WAS -installationDirectory /apps/WebSphere/AppServer-8.5 -sharedResourcesDirectory /apps/IBM/InstallationManager/SDP70Shared -acceptLicense -showProgress
+
+./imcl install com.ibm.websphere.liberty.ND.v85_8.5.5000.20130514_1313 
+chmod 640 /home/wasadm/.ssh/authorized_keys
+chmod 644 /home/wasadm/.ssh/known_hosts
+chmod 700 /home/wasadm/.ssh/
+chmod 755 /home/wasadm/
+
+./wsadmin.sh -f /workfs/WAS_Daily_Health_Check_v2.py -username m554538a ----- Mul1uaqs -lang jython
+
+
+from Ryan Weiss to Everyone: 
+http://www-01.ibm.com/support/docview.wss?uid=swg27036014
+from Ryan Weiss to Everyone: 
+SSL_TLSv2
+from Ryan Weiss to Everyone: 
+SSLv3 is disabled by default as part of the fix pack
+from Ryan Weiss to Everyone: 
+TLS 1.0
+from Ryan Weiss to Everyone: 
+SSL_TLSv2 enabled 1.0 1.1 and 1.2
+from Ryan Weiss to Everyone: 
+IHS v7.0 only support TLS 1.0
+from Ryan Weiss to Everyone: 
+IHS v8.0 or v8.5 supports TLS 1.0, 1.1. or 1.2
+from Ryan Weiss to Everyone: 
+SSLv3 and TLS 1.0
+from Ryan Weiss to Everyone: 
+SSL_TLSv2
+
+
+
+
+
+
+
+
+
+
+
+
+install.bat WG_HCOAFFILIATE_SC_PROD_10G_001 Core80ZSoon access_cscrdwmpc001 cscrdwmpc001.crdc.kp.org 6021 Core80ZSoon
+from Maha Ravi to Everyone: 
+install.bat WG_HCOAFFILIATE_NC_PROD_10G_001 Core80ZSoon access_cscrdwmpc001 cscrdwmpc001.crdc.kp.org 6021 Core80ZSoon
+install.bat WG_HCOAFFILIATE_HI_PROD_10G_001 Core80ZSoon access_cscrdwmpc001 cscrdwmpc001.crdc.kp.org 6021 Core80ZSoon
+from Maha Ravi to Everyone: 
+for north west install.bat WG_HCOAFFILIATE-LOGIN_PRD_DMZ_10G_001 Core80ZSoon access_cscrdwmpc001 cscrdwmpc001.crdc.kp.org 6021 Core80ZSoon   
+10:30:00 PM: KARTHIK R VENKITACHALAM: so shall it start renewing? 
+
+
+
+
+
+
+
+
+openssl s_client -connect www.yoursite.com:443  x509 -text -in /dev/stdin | grep "Signature Algorithm"
+
+openssl s_client -connect mcoe-uat.kp.org:443 < /dev/null 2>/dev/null | openssl x509 -text -in /dev/stdin | grep "Signature Algorithm"
+
+UCD
+https://ucd.kp.org:8443
+https://rational.kp.org/ram/oslc/assets/52F4640B-E368-166D-3D22-833ABFC428FB/1.0 
+
+
+Remedy link
+---------------
+https://172.18.82.55/arsys/forms/remedy-prod/SHR:LandingConsole/Default+Administrator+View/?cacheid=a5064855
+
+https://172.18.82.54/arsys/forms/remedy-prod/SHR:LandingConsole/Default+Administrator+View/?cacheid=a5064855
+
+https://pzxnvm2136.dcld.pldc.kp.org:10501/ibm/console/logon.jsp
+http://aims.crdc.kp.org/aims/view/login?logout=true 
+Blue View 
+http://blueview.kp.org/
+
+Find a string in a filesytem
+------------------------------
+
+find . -type f -print -exec grep STG_WAS6.0 {} \;
+find . -type f -print -exec grep LIBPATH {} \;F
+
+IBM custome number for PMR IBM
+------------------------------
+KP Corp #   4783331  To open IBM PMR
+
+To find the expiry date of the cert
+-----------------------------------
+gsk7capicmd -cert -list all -expiry 7000 -db /apps/keys/robgyn/key.kdb  
+
+Find a string in a filesytem
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------
+
+find . -type f -print -exec grep svcbindPrdSPIMS {} \;
+To find the processid of a port locked
+-------------------------------------
+$  netstat -aAn|grep 9492
+f1000e000b1393b8 tcp        0      0  *.9492                *.*                   LISTEN
+$ rmsock f1000e000b1393b8 tcpcb
+rmsock f1000e000c25bbb8 tcpcb
+
+The socket 0xf1000e000b139008 is being held by proccess 11993250 (java).
+$ ps -ef|grep 11993250 
+
+
+ndmQA006Managed
+wzaqwa10.wcdc.kp.org.wcdc.kp.org:11000/ibm/console
+ndmuatROC
+---------
+https://szauwa16.ssdc.kp.org:16001/ibm/console?/
+
+ndmUAT002
+-----------
+
+http://szauwandmw01.ssdc.kp.org:10500/ibm/console
+ndmQA015
+------------
+https://wzaqwandml02.wcdc.kp.org:15001/ibm/console
+
+https://izaqwandml01.ivdc.kp.org:13001/ibm/console/logon.jsp
+WU4 QA - IDC Intranet - PodC Class of Service 4-8 
+ndmQA002
+https://szauwandmw01.ssdc.kp.org:12511/ibm/console/login.do?action=secure
+
+
+ndmQA005
+https://szauwandmw01.ssdc.kp.org:10501/ibm/console/login.do?action=secure 
+ndmQA003
+https://izaqwandml01.ivdc.kp.org:12501/ibm/console/login.do?action=secure
+
+-agentlib:am_ibm_16=${WAS_SERVER_NAME} -Xbootclasspath/p:${ITCAMDCHOME}/toolkit/lib/bcm-bootstrap.jar -Djava.security.policy=${ITCAMDCHOME}/itcamdc/etc/datacollector.policy -verbosegc -Dcom.ibm.tivoli.itcam.ai.runtimebuilder.inputs=${ITCAMDCHOME}/runtime/ManagedUAT002.ndmUAT002.${WAS_NODE_NAME}.${WAS_SERVER_NAME}.DCManualInput.txt -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Dsun.rmi.transport.connectionTimeout=300000 -Dws.bundle.metadata=${ITCAMDCHOME}/runtime/wsBundleMetaData -Dam.wascell=ndmUAT002 -Dam.wasprofile=ManagedUAT002 -Dam.wasnode=${WAS_NODE_NAME} -Dam.wasserver=${WAS_SERVER_NAME}
+
+-agentlib:am_ibm_16=${WAS_SERVER_NAME} -Xbootclasspath/p:${ITCAMDCHOME}/toolkit/lib/bcm-bootstrap.jar -Djava.security.policy=${ITCAMDCHOME}/itcamdc/etc/datacollector.policy -verbosegc -Dcom.ibm.tivoli.itcam.ai.runtimebuilder.inputs=${ITCAMDCHOME}/runtime/ManagedUAT002.ndmUAT002.szauwaintG01.AIMS_1.DCManualInput.txt -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Dsun.rmi.transport.connectionTimeout=300000 -Dws.bundle.metadata=${ITCAMDCHOME}/runtime/wsBundleMetaData -Dam.wascell=ndmUAT002 -Dam.wasprofile=ManagedUAT002 -Dam.wasnode=szauwaintG01 -Dam.wasserver=AIMS_1
+
+-agentlib:am_ibm_16=${WAS_SERVER_NAME} -Xbootclasspath/p:${ITCAMDCHOME}/toolkit/lib/bcm-bootstrap.jar -Djava.security.policy=${ITCAMDCHOME}/itcamdc/etc/datacollector.policy -verbosegc -Dcom.ibm.tivoli.itcam.ai.runtimebuilder.inputs=${ITCAMDCHOME}/runtime/ManagedUAT002.ndmUAT002.szauwaintG03.AIMS_2.DCManualInput.txt -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Dsun.rmi.transport.connectionTimeout=300000 -Dws.bundle.metadata=${ITCAMDCHOME}/runtime/wsBundleMetaData -Dam.wascell=ndmUAT002 -Dam.wasprofile=ManagedUAT002 -Dam.wasnode=szauwaintG03 -Dam.wasserver=AIMS_2
+
+
+
+
+SecureCRT License Data:                                      Checksum
+   Name:           25 Computer Right To Use License           [49CA]
+   Company:        IBM/Kaiser Permanente                      [2ACF]
+   Serial Number:  03-62-100472                               [F7F3]
+   License Key:
+      AB6AF4 RB726U QCM4JE YDH4XH AA3SPE 2CEV4E YGBKX2 T5ZCSU [F198]
+   Issue Date:     08-07-2009                                 [2797]
+   Features:       Maintenance Expiration=08-06-2012          [16B1]
+
+SecureFX License Data:                                       Checksum
+   Name:           25 Computer Right To Use License           [49CA]
+   Company:        IBM C/O Kaiser                             [C17A]
+   Serial Number:  06-62-100159                               [D291]
+   License Key:   
+      ABVFEJ GNHP6R 5MM1MB U6HCMY ADP7UD DRXFCX 37KWN9 68MJW2 [49C2]
+   Issue Date:     08-11-2009                                 [AA5F]
+#tcpdump -r <filename>
+from Muthamizh kumar to Everyone: 
+/usr/sbin/tcpdump -i eth1 -C 100 -W 10 -w tcpdump_80.pcap tcp port 80
+
+
+find . -type f -print0 | xargs -0 grep -l "nzxppm17"
+bo/HrlosPrivilegesBO.allowNueEmployeePspAwardsReport(Lorg/kp/hrlos/domain/User;)Z
+        at com.ibm._jsp._batchFileUpload._jspService(_batchFileUpload.java:273)
+        ... 43 more
+
+
+
+
+from perumal (IBM SSO WEB) to Everyone: 
+http://ussweb.crdc.kp.org/UAM/IAM_UNIX_Master_Server_List.csv 
+from Ravikrishnan Sahasranamaiyer to Everyone: 
+http://unix/CFG2HTML/index-under.php
+
+
+
+openssl s_client -connect scpmgphysician.kp.org:443 < /dev/null 2>/dev/null 
+openssl s_client -connect scpmgphysician.kp.org:443 < /dev/null 2>/dev/stdin
+
+openssl x509 -text -in /dev/stdin | grep "Signature Algorithm"
+
+
+openssl s_client -connect scpmgphysician.kp.org:443 < /dev/null 2>/dev/null | openssl x509 -text -in /dev/stdin | grep "Signature Algorithm"
+
+kpndsnbm-dr.kp.org
+| openssl x509 -text -in /dev/stdin | grep "Signature Algorithm"
+openssl s_client -connect kpndsnbm-dr.kp.org:443 < /dev/null 2>/dev/null | openssl x509 -text -in /dev/stdin | grep "Signature Algorithm"
+
+
+
+HDF
+58923147
+A 50100074819506
+IC-RAN
+532869064
+A051901512863
+keer Adhar--> 347813752890
+
+
+
+
+AdminServerManagement.createWebServer("nzapwai7_ihs", "kpaths_10", "2487", "/apps/IBMIHS/IBMIHS-8.5", "/apps/WebSphere/Plugins-8.5", "/apps/conf/httpd-kpaths_10.conf" ,"","","","")
+
+AdminServerManagement.configureProcessDefinition("nzapwai6", "BOOKING_5",[['workingDirectory','/data/appdata/BOOKING']])
+
+AdminServerManagement.listJVMProperties("nzapwai6", "BOOKING_1","")
+
+AdminServerManagement.setJVMProperties("nzapwai6", "BOOKING_5", "/apps/WebSphere/AppServer-8.5/profiles/ManagedKpathPilot/installedApps/ndmKpathPilot/Booking.ear/properties/prod", "", "", "", "", "") 
+ 
+AdminServerManagement.listJVMProperties("nzapwai6", "BOOKING_5","")
+
+ 
+ 
+['[classpath', ']', '[bootClasspath', ']', '[verboseModeClass', 'false]', '[verboseModeGarbageCollection', 'false]', '[verboseModeJNI', 'false]', '[initialHeapSize', '1024]', '[maximumHeapSize', '2560]', '[runHProf', 'false]', '[hprofArguments', ']', '[debugMode', 'false]', '[debugArgs', '-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=7777]', '[genericJvmArguments', ']', '[executableJarFileName', ']', '[disableJIT', 'false]', '[osName', ']', '[internalClassAccessMode', 'ALLOW]']
+wsadmin>
+
+
+
+
+
+
+8939209437/8939539121
